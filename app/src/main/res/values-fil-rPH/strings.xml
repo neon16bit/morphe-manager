@@ -28,6 +28,7 @@
     <string name="home_outdated_manager_subtitle">Ang ilang mga mapagkukunan ng patch ay nangangailangan ng mas bagong bersyon</string>
     <string name="home_metered_skipped_title">Naantala ang mga update sa mobile data</string>
     <string name="home_metered_skipped_subtitle">I-tap para payagan ang mga update sa mobile data</string>
+    <string name="home_repatch_available_subtitle">I-tap para i-queue lahat</string>
     <string name="home_update_error">Nabigo ang pag-update</string>
     <string name="home_update_error_subtitle">Mayroong kamalian habang ina-update ang mga source</string>
     <string name="home_update_skipped_metered">Nabigo ang pag-update</string>
@@ -193,6 +194,7 @@ Please note: The translation is complete. The arrow is for clarity and not part 
     <string name="home_apk_helper_installed_incompatible">Ang naka-install na bersyon ay hindi maaaring i-patch</string>
     <string name="home_apk_use_saved">Gamitin ang nakaimbak na APK</string>
     <string name="home_apk_use_installed">Gamitin ang naka-install na APK</string>
+    <string name="home_apk_use_saved_unsupported">Ang mga patch ay hindi sumusuporta sa naka-save na kopyang ito. Ang pag-patch dito ay hihingi sa iyo ng kumpirmasyon, o pumili ng ibang APK.</string>
     <string name="home_apk_use_installed_unverified">Hindi mapatunayan ang lagda ng naka-install na app, kaya maaaring na-patch na ito</string>
     <string name="home_unverified">Hindi na-verify</string>
     <string name="home_install_verification_pending">Sinusuri ang pag-install…</string>
@@ -671,14 +673,6 @@ Ang pag-uninstall ay permanenteng bubura sa lahat ng data ng app."</string>
     <string name="settings_advanced_update_interval_monthly">Minsan sa isang buwan</string>
     <string name="settings_advanced_update_interval_chip_subtitle">Kadalasan ng pagsusuri sa background</string>
     <string name="settings_advanced_update_interval_battery_warning">Maaaring hindi gumana nang mapagkakatiwalaan ang mga pagsusuri sa background sa ilang device. Ang mga tagagawa tulad ng Xiaomi, Huawei, Samsung, at OnePlus ay madalas na agresibong naghihigpit sa mga proseso sa background upang makatipid ng baterya</string>
-    <string name="settings_advanced_auto_patch">Awtomatikong pag-re-patch</string>
-    <string name="settings_advanced_auto_patch_description">I-re-patch ang mga naka-install na app sa background kapag nagbago ang kanilang mga patch. Tanging ang mga app na may naka-save na orihinal na APK ang sakop</string>
-    <string name="settings_advanced_auto_patch_interval">Dalasan ng pag-re-patch</string>
-    <string name="settings_advanced_auto_patch_interval_chip_subtitle">Gaano kadalas muling buuin ang mga na-patch na app</string>
-    <string name="settings_advanced_auto_patch_charging">Tanging habang nagcha-charge</string>
-    <string name="settings_advanced_auto_patch_charging_description">Ang pag-patch ay mabigat sa CPU at memory, kaya maghihintay ito ng charger</string>
-    <string name="settings_advanced_auto_patch_install">I-install nang awtomatiko</string>
-    <string name="settings_advanced_auto_patch_install_description">Nangangailangan ng Shizuku bilang installer. Sa anumang ibang installer, ang mga na-patch na app ay ise-save lamang</string>
     <string name="settings_advanced_external_batch_patch">Payagan ang mga panlabas na trigger</string>
     <string name="settings_advanced_external_batch_patch_description">Hinahayaan ang mga app ng automation na simulan ang batch patching na may intent. Ang bawat kahilingan ay kinukumpirma bago ang anumang tumakbo</string>
     <string name="external_batch_patch_title">Magsimulang mag-batch patch?</string>
@@ -686,13 +680,6 @@ Ang pag-uninstall ay permanenteng bubura sa lahat ng data ng app."</string>
     <string name="external_batch_patch_trust_caller">Payagan ang app na ito palagi</string>
     <string name="external_batch_patch_unknown_caller">Isang hindi kilalang app</string>
     <!-- Notification content -->
-    <string name="notification_auto_patch_title">Tapos na ang awtomatikong pag-re-patch</string>
-    <string name="notification_auto_patch_running_title">Nagre-re-patch ng mga app</string>
-    <string name="notification_auto_patch_blocked_title">Hindi tumakbo ang awtomatikong pag-re-patch</string>
-    <string name="notification_auto_patch_blocked_battery">Ibinlock ng system ang pag-install na ito. Sa Xiaomi at mga katulad na device, i-on ang \"Install via USB\" sa mga developer option. Sa isang work profile, maaaring paghigpitan ng patakaran ang mga pag-install</string>
-    <string name="notification_auto_patch_blocked_foreground">Nabigo</string>
-    <string name="notification_channel_auto_patch">Kinansela</string>
-    <string name="notification_channel_auto_patch_description">Handa</string>
     <string name="notification_manager_update_title">Magagamit ang update ng Morphe</string>
     <string name="notification_bundle_update_title">Magagamit ang mga bagong patch</string>
     <string name="notification_update_text">Handa mag-download ang bersyong %s</string>

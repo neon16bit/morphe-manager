@@ -29,6 +29,7 @@ Nessuna patch disponibile</string>
     <string name="home_outdated_manager_subtitle">Alcune sorgenti di patch richiedono una versione più recente</string>
     <string name="home_metered_skipped_title">Aggiornamenti in pausa sulla rete dati mobile</string>
     <string name="home_metered_skipped_subtitle">Tocca per consentire gli aggiornamenti sulla rete mobile</string>
+    <string name="home_repatch_available_subtitle">Tocca per accodarli tutti</string>
     <string name="home_update_error">Aggiornamento non riuscito</string>
     <string name="home_update_error_subtitle">Si è verificato un errore durante l\'aggiornamento delle fonti</string>
     <string name="home_update_skipped_metered">Gli aggiornamenti sono stati saltati</string>
@@ -193,6 +194,7 @@ Nessuna patch disponibile</string>
     <string name="home_apk_helper_installed_incompatible">La versione installata non può essere patchata</string>
     <string name="home_apk_use_saved">Usa APK salvato</string>
     <string name="home_apk_use_installed">Usa APK installato</string>
+    <string name="home_apk_use_saved_unsupported">Le patch non supportano questa copia salvata. Applicarla richiederà una conferma, oppure scegli un altro APK</string>
     <string name="home_apk_use_installed_unverified">Impossibile verificare la firma dell\'app installata, pertanto potrebbe essere già stata modificata</string>
     <string name="home_unverified">Non verificata</string>
     <string name="home_install_verification_pending">Controllo dell\'installazione…</string>
@@ -670,14 +672,6 @@ La disinstallazione cancellerà definitivamente tutti i dati dell'app."</string>
     <string name="settings_advanced_update_interval_monthly">Una volta al mese</string>
     <string name="settings_advanced_update_interval_chip_subtitle">Frequenza dei controlli in background</string>
     <string name="settings_advanced_update_interval_battery_warning">I controlli in background potrebbero non funzionare in maniera affidabile su alcuni dispositivi. I produttori come Xiaomi, Huawei, Samsung e OnePlus spesso limitano in modo aggressivo i processi in background per risparmiare batteria</string>
-    <string name="settings_advanced_auto_patch">Modifica automatica</string>
-    <string name="settings_advanced_auto_patch_description">Modifica di nuovo le app installate in background quando le patch cambiano. Solo le app con un APK originale salvato sono incluse</string>
-    <string name="settings_advanced_auto_patch_interval">Frequenza di modifica automatica</string>
-    <string name="settings_advanced_auto_patch_interval_chip_subtitle">Con quale frequenza vengono ricostruite le app modificate</string>
-    <string name="settings_advanced_auto_patch_charging">Solo durante la ricarica</string>
-    <string name="settings_advanced_auto_patch_charging_description">La modifica richiede molta CPU e memoria, quindi attende un caricabatterie</string>
-    <string name="settings_advanced_auto_patch_install">Installa automaticamente</string>
-    <string name="settings_advanced_auto_patch_install_description">Richiede Shizuku come installatore. Con qualsiasi altro installatore le app modificate vengono solo salvate</string>
     <string name="settings_advanced_external_batch_patch">Consenti trigger esterni</string>
     <string name="settings_advanced_external_batch_patch_description">Consente alle app di automazione di avviare la modifica in batch con un intent. Ogni richiesta viene confermata prima dell\'esecuzione</string>
     <string name="external_batch_patch_title">Avvia la modifica in batch?</string>
@@ -685,13 +679,6 @@ La disinstallazione cancellerà definitivamente tutti i dati dell'app."</string>
     <string name="external_batch_patch_trust_caller">Consenti sempre questa app</string>
     <string name="external_batch_patch_unknown_caller">Un\'app sconosciuta</string>
     <!-- Notification content -->
-    <string name="notification_auto_patch_title">Modifica automatica completata</string>
-    <string name="notification_auto_patch_running_title">Modifica di app</string>
-    <string name="notification_auto_patch_blocked_title">La modifica automatica non è stata eseguita</string>
-    <string name="notification_auto_patch_blocked_battery">Il sistema ha bloccato questa installazione. Su Xiaomi e dispositivi simili, attiva \"Installa tramite USB\" nelle opzioni sviluppatore. Su un profilo di lavoro, le installazioni possono essere limitate dalla policy</string>
-    <string name="notification_auto_patch_blocked_foreground">Android non ha permesso l\'avvio della modifica in background. Apri Morphe e modifica dall\'app</string>
-    <string name="notification_channel_auto_patch">Modifica automatica</string>
-    <string name="notification_channel_auto_patch_description">Notifiche silenziose per l\'avanzamento e il risultato della modifica programmata</string>
     <string name="notification_manager_update_title">Aggiornamento di Morphe disponibile</string>
     <string name="notification_bundle_update_title">Nuove patch disponibili</string>
     <string name="notification_update_text">La versione %s è pronta per il download</string>

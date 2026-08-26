@@ -28,6 +28,7 @@
     <string name="home_outdated_manager_subtitle">Einige Patch-Quellen benötigen eine neuere Version</string>
     <string name="home_metered_skipped_title">Updates über mobile Daten wurden pausiert</string>
     <string name="home_metered_skipped_subtitle">Tippe, um Updates über mobile Daten zu erlauben</string>
+    <string name="home_repatch_available_subtitle">Tippen, um alle in die Warteschlange zu stellen</string>
     <string name="home_update_error">Update fehlgeschlagen</string>
     <string name="home_update_error_subtitle">Bei der Aktualisierung der Quellen ist ein Fehler aufgetreten</string>
     <string name="home_update_skipped_metered">Updates übersprungen</string>
@@ -192,6 +193,7 @@
     <string name="home_apk_helper_installed_incompatible">Die installierte Version kann nicht gepatcht werden</string>
     <string name="home_apk_use_saved">Gespeicherte APK verwenden</string>
     <string name="home_apk_use_installed">Installierte App verwenden</string>
+    <string name="home_apk_use_saved_unsupported">Die Patches unterstützen diese gespeicherte Kopie nicht. Das Patchen wird Sie zur Bestätigung auffordern, oder wählen Sie eine andere APK</string>
     <string name="home_apk_use_installed_unverified">Die Signatur der installierten App konnte nicht verifiziert werden. Sie ist möglicherweise bereits gepatcht.</string>
     <string name="home_unverified">Unbestätigt</string>
     <string name="home_install_verification_pending">Installation wird überprüft…</string>
@@ -671,14 +673,6 @@ Durch die Deinstallation werden alle App-Daten dauerhaft gelöscht"</string>
     <string name="settings_advanced_update_interval_monthly">Monatlich</string>
     <string name="settings_advanced_update_interval_chip_subtitle">Häufigkeit der Update-Suche im Hintergrund</string>
     <string name="settings_advanced_update_interval_battery_warning">Die Suche nach Updates im Hintergrund funktioniert möglicherweise auf einigen Geräten nicht zuverlässig. Hersteller wie Xiaomi, Huawei, Samsung und OnePlus beschränken oft aggressiv Hintergrundprozesse, um Batterieleistung zu sparen</string>
-    <string name="settings_advanced_auto_patch">Automatisches Neu-Patchen</string>
-    <string name="settings_advanced_auto_patch_description">Patched installierte Apps im Hintergrund neu, wenn sich ihre Patches ändern. Nur Apps mit einer gespeicherten ursprünglichen APK werden berücksichtigt</string>
-    <string name="settings_advanced_auto_patch_interval">Häufigkeit des Neu-Patchings</string>
-    <string name="settings_advanced_auto_patch_interval_chip_subtitle">Wie oft gepatchte Apps neu erstellt werden</string>
-    <string name="settings_advanced_auto_patch_charging">Nur während des Ladevorgangs</string>
-    <string name="settings_advanced_auto_patch_charging_description">Das Patchen beansprucht viel CPU und Speicher, daher wird gewartet, bis ein Ladegerät angeschlossen ist</string>
-    <string name="settings_advanced_auto_patch_install">Automatisch installieren</string>
-    <string name="settings_advanced_auto_patch_install_description">Benötigt Shizuku als Installer. Mit jedem anderen Installer werden die gepatchten Apps nur gespeichert</string>
     <string name="settings_advanced_external_batch_patch">Externe Trigger zulassen</string>
     <string name="settings_advanced_external_batch_patch_description">Ermöglicht es Automatisierungs-Apps, das Batch-Patchen mit einer Absicht zu starten. Jede Anfrage wird vor der Ausführung bestätigt</string>
     <string name="external_batch_patch_title">Batch-Patchen starten?</string>
@@ -686,13 +680,6 @@ Durch die Deinstallation werden alle App-Daten dauerhaft gelöscht"</string>
     <string name="external_batch_patch_trust_caller">Immer diese App zulassen</string>
     <string name="external_batch_patch_unknown_caller">Eine unbekannte App</string>
     <!-- Notification content -->
-    <string name="notification_auto_patch_title">Automatisches Neu-Patchen abgeschlossen</string>
-    <string name="notification_auto_patch_running_title">Apps werden neu gepatcht</string>
-    <string name="notification_auto_patch_blocked_title">Automatisches Neu-Patchen wurde nicht ausgeführt</string>
-    <string name="notification_auto_patch_blocked_battery">Befreie Morphe von der Batteriestoppfunktion, andernfalls stoppt Android die Ausführung, bevor sie beginnt</string>
-    <string name="notification_auto_patch_blocked_foreground">Android hat das Starten des Patchvorgangs im Hintergrund nicht zugelassen. Öffne Morphe und patche die App</string>
-    <string name="notification_channel_auto_patch">Automatisches Neu-Patchen</string>
-    <string name="notification_channel_auto_patch_description">Leise Fortschritts- und Ergebnismeldungen für das geplante Neu-Patchen</string>
     <string name="notification_manager_update_title">Morphe-Update verfügbar</string>
     <string name="notification_bundle_update_title">Neue Patches verfügbar</string>
     <string name="notification_update_text">Version %s ist zum Herunterladen bereit</string>

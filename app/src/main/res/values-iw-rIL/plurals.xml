@@ -66,11 +66,11 @@
         <item quantity="many">%s אפליקציות מוכנות לתיקון</item>
         <item quantity="other">%s אפליקציות מוכנות לתיקון</item>
     </plurals>
-    <plurals name="batch_patch_notification_ready">
-        <item quantity="one">%s אפליקציה מוכנה להתקנה</item>
-        <item quantity="two">%s אפליקציות מוכנות להתקנה</item>
-        <item quantity="many">%s אפליקציות מוכנות להתקנה</item>
-        <item quantity="other">%s אפליקציות מוכנות להתקנה</item>
+    <plurals name="repatch_available_count">
+        <item quantity="one">%s אפליקציה ניתנת לתיקון מחדש</item>
+        <item quantity="two">%s אפליקציות נתתות לתיקון מחדש</item>
+        <item quantity="many">%s אפליקציות נותות לתיקון מחדש</item>
+        <item quantity="other">%s אפליפשריות נותות לתיקון מחדש</item>
     </plurals>
     <plurals name="batch_skipped_summary">
         <item quantity="one">דילוג על %s אפליקציה</item>

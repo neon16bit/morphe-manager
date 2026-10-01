@@ -661,6 +661,8 @@ Quraşdırma ləğvi bütün tətbiq məlumatını qalıcı siləcək"</string>
     <string name="mini_game_try_again">Təkrar cəhd et</string>
     <string name="mini_game_paused">Fasilə edildi</string>
     <string name="mini_game_resume">Davam et</string>
+    <string name="mini_game_restart">Yenidən başla</string>
+    <string name="mini_game_change">Başqa bir oyun seç</string>
     <string name="mini_game_2048_picker_subtitle">Birləşdirmək üçün xanaları sürüşdür</string>
     <string name="mini_game_flappy_picker_subtitle">Borular arasından uçmaq üçün toxun</string>
     <string name="mini_game_flappy_tap_to_start">Uçmaq üçün toxun</string>

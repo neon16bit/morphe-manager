@@ -361,6 +361,7 @@ APK ファイルの取得元を選択してください"</string>
     <string name="expert_mode_restore_saved_done">保存したセレクションを復元しました</string>
     <string name="expert_mode_copy_from_bundle_no_patches">このバンドルに一致するパッチはありません</string>
     <string name="expert_mode_no_results">パッチが見つかりません</string>
+    <string name="expert_mode_selected_only">選択されたパッチのみ</string>
     <string name="expert_mode_selected_only_on">選択されたパッチのみを表示</string>
     <string name="expert_mode_selected_only_off">すべてのパッチを表示</string>
     <string name="expert_mode_universal_patches">ユニバーサル パッチ</string>
@@ -1234,6 +1235,19 @@ morphe_header_custom_dark.png
     <string name="settings_system_selected_patches_section">選択したパッチ</string>
     <string name="settings_system_no_patches_or_options">保存されたパッチやオプションなし</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">選択内容</string>
+    <string name="selection_panel_copy_into">%s にコピー</string>
+    <string name="selection_sets_title">セット</string>
+    <string name="selection_set_name">セット名</string>
+    <string name="selection_set_save">セットとして保存</string>
+    <string name="selection_set_replace">セットを置換</string>
+    <string name="selection_set_saved">%s として保存済み</string>
+    <string name="selection_set_applied">%s に切り替えました</string>
+    <string name="selection_set_deleted">%s を削除しました</string>
+    <string name="selection_set_renamed">%s に名前を変更しました</string>
+    <string name="selection_set_rename_title">セットの名前を変更</string>
+    <string name="selection_set_delete_title">セットを削除しますか？</string>
+    <string name="selection_set_delete_message">これにより、セット %s が完全に削除されます</string>
     <string name="copy_selection_empty">コピー可能な保存済みのセレクションはありません</string>
     <string name="copy_selection_available_format">%1$s / %2$s が利用可能</string>
     <!-- Settings - System Tab - Custom file picker -->
@@ -1369,6 +1383,7 @@ morphe_header_custom_dark.png
     <string name="accessibility_app_moved_announcement">%1$s を %3$s の %2$s 番目に移動しました</string>
     <string name="accessibility_scroll_to_top">リストの一番上にスクロール</string>
     <string name="rename">名前を変更する</string>
+    <string name="more_options">その他のオプション</string>
     <string name="import_">インポート</string>
     <string name="export">エクスポート</string>
     <string name="copy">コピー</string>

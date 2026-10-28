@@ -350,6 +350,7 @@
     <string name="expert_mode_restore_saved_done">Athchóiríodh an rogha sábháilte</string>
     <string name="expert_mode_copy_from_bundle_no_patches">Níl aon phaistí comhoiriúnacha sa phacáiste seo</string>
     <string name="expert_mode_no_results">Níor aimsíodh aon phaistí</string>
+    <string name="expert_mode_selected_only">Paistí roghnaithe amháin</string>
     <string name="expert_mode_selected_only_on">Paistí roghnaithe amháin á thaispeáint</string>
     <string name="expert_mode_selected_only_off">Ag taispeáint na paistí go léir</string>
     <string name="expert_mode_universal_patches">Paistí uilíocha</string>
@@ -1207,6 +1208,19 @@ Sonraí: %2$s"</string>
     <string name="settings_system_selected_patches_section">Paistí roghnaithe</string>
     <string name="settings_system_no_patches_or_options">Gan aon phaistí ná roghanna sábháilte</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">Roghnaigh</string>
+    <string name="selection_panel_copy_into">Cóipealaigh isteach i %s</string>
+    <string name="selection_sets_title">Socruithe</string>
+    <string name="selection_set_name">Ainm socruithe</string>
+    <string name="selection_set_save">Sábháil mar shocruithe</string>
+    <string name="selection_set_replace">Ath choirsigh socruithe</string>
+    <string name="selection_set_saved">Sábháilte mar %s</string>
+    <string name="selection_set_applied">Athraithe chuig %s</string>
+    <string name="selection_set_deleted">Scriosta %s</string>
+    <string name="selection_set_renamed">Athainmnithe go %s</string>
+    <string name="selection_set_rename_title">Athainmnigh tacu</string>
+    <string name="selection_set_delete_title">Scrios tacu?</string>
+    <string name="selection_set_delete_message">Scriosfaidh sé seo an tacu %s go buan</string>
     <string name="copy_selection_empty">Níl aon roghanna sábháilte eile le cóipeáil uathu</string>
     <string name="copy_selection_available_format">%1$s de %2$s ar fáil</string>
     <!-- Settings - System Tab - Custom file picker -->

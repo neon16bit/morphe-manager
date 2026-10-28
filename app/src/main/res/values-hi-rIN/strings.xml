@@ -349,6 +349,7 @@
     <string name="expert_mode_restore_saved_done">सहेजे गए चयन को पुनर्स्थापित किया गया</string>
     <string name="expert_mode_copy_from_bundle_no_patches">इस बंडल में कोई मिलान करने वाला पैच नहीं है</string>
     <string name="expert_mode_no_results">कोई पैच नहीं मिला</string>
+    <string name="expert_mode_selected_only">केवल चयनित पैच</string>
     <string name="expert_mode_selected_only_on">केवल चयनित पैच दिखाए जा रहे हैं</string>
     <string name="expert_mode_selected_only_off">सभी पैच दिखाए जा रहे हैं</string>
     <string name="expert_mode_universal_patches">सार्वभौमिक पैच</string>
@@ -1214,6 +1215,19 @@ morphe_header_custom_dark.png
     <string name="settings_system_selected_patches_section">चयनित पैच</string>
     <string name="settings_system_no_patches_or_options">कोई पटच या विकल्प सहेजे गए नहीं</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">चयन</string>
+    <string name="selection_panel_copy_into">%s में कॉपी करें</string>
+    <string name="selection_sets_title">सेट</string>
+    <string name="selection_set_name">सेट का नाम</string>
+    <string name="selection_set_save">सेट के रूप में सहेजें</string>
+    <string name="selection_set_replace">सेट बदलें</string>
+    <string name="selection_set_saved">%s के रूप में सहेजा गया</string>
+    <string name="selection_set_applied">%s पर स्विच किया गया</string>
+    <string name="selection_set_deleted">%s हटा दिया गया</string>
+    <string name="selection_set_renamed">%s के रूप में नाम बदला गया</string>
+    <string name="selection_set_rename_title">सेट का नाम बदलें</string>
+    <string name="selection_set_delete_title">सेट हटाएं?</string>
+    <string name="selection_set_delete_message">यह स्थायी रूप से सेट %s को हटा देता है</string>
     <string name="copy_selection_empty">कॉपी करने के लिए कोई अन्य सहेजा गया चयन नहीं है</string>
     <string name="copy_selection_available_format">%1$s में से %2$s उपलब्ध हैं</string>
     <!-- Settings - System Tab - Custom file picker -->
@@ -1349,6 +1363,7 @@ morphe_header_custom_dark.png
     <string name="accessibility_app_moved_announcement">%1$s को %3$s के %2$s स्थान पर ले जाया गया</string>
     <string name="accessibility_scroll_to_top">सूची के शीर्ष पर स्क्रॉल करें</string>
     <string name="rename">रename</string>
+    <string name="more_options">अधिक विकल्प</string>
     <string name="import_">आयात करें</string>
     <string name="export">निर्यात करें</string>
     <string name="copy">कॉपी</string>

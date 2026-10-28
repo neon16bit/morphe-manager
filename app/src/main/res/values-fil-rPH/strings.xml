@@ -349,6 +349,7 @@
     <string name="expert_mode_restore_saved_done">Naibalik ang nakasave na pagpili</string>
     <string name="expert_mode_copy_from_bundle_no_patches">Walang katugmang mga patch sa bundle na ito</string>
     <string name="expert_mode_no_results">Walang nakita na patch</string>
+    <string name="expert_mode_selected_only">Piniling mga patch lamang</string>
     <string name="expert_mode_selected_only_on">Ipinapakita lamang ang mga napiling patch</string>
     <string name="expert_mode_selected_only_off">Ipinapakita ang lahat ng mga patch</string>
     <string name="expert_mode_universal_patches">Mga unibersal na patch</string>
@@ -1214,6 +1215,19 @@ Mga Detalye: %2$s"</string>
     <string name="settings_system_selected_patches_section">Piniling mga patch</string>
     <string name="settings_system_no_patches_or_options">Walang naka-save na mga patch o pagpipilian</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">Mga Pinili</string>
+    <string name="selection_panel_copy_into">Kopyahin sa %s</string>
+    <string name="selection_sets_title">Mga Set</string>
+    <string name="selection_set_name">Pangalan ng set</string>
+    <string name="selection_set_save">I-save bilang set</string>
+    <string name="selection_set_replace">Palitan ang set</string>
+    <string name="selection_set_saved">Na-save bilang %s</string>
+    <string name="selection_set_applied">Lumipat sa %s</string>
+    <string name="selection_set_deleted">Binura ang %s</string>
+    <string name="selection_set_renamed">Pinangalanang muli bilang %s</string>
+    <string name="selection_set_rename_title">Palitan ang pangalan ng set</string>
+    <string name="selection_set_delete_title">Burahin ang set?</string>
+    <string name="selection_set_delete_message">Permanenteng buburahin nito ang set na %s</string>
     <string name="copy_selection_empty">Walang iba pang mga pagpiling naka-save para kopyahin</string>
     <string name="copy_selection_available_format">%1$s sa %2$s ang magagamit</string>
     <!-- Settings - System Tab - Custom file picker -->
@@ -1349,6 +1363,7 @@ Mga Detalye: %2$s"</string>
     <string name="accessibility_app_moved_announcement">%1$s ay inilipat sa posisyon %2$s ng %3$s</string>
     <string name="accessibility_scroll_to_top">Mag-scroll sa tuktok ng listahan</string>
     <string name="rename">Palitan</string>
+    <string name="more_options">Higit pang mga pagpipilian</string>
     <string name="import_">I-import</string>
     <string name="export">I-export</string>
     <string name="copy">Kopyahin</string>

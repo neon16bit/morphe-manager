@@ -349,6 +349,7 @@
     <string name="expert_mode_restore_saved_done">Đã khôi phục bản vá đã chọn</string>
     <string name="expert_mode_copy_from_bundle_no_patches">Không tìm thấy bản vá phù hợp trong gói này</string>
     <string name="expert_mode_no_results">Không tìm thấy bản vá nào</string>
+    <string name="expert_mode_selected_only">Chỉ các bản vá đã chọn</string>
     <string name="expert_mode_selected_only_on">Chỉ hiển thị các bản vá đã chọn</string>
     <string name="expert_mode_selected_only_off">Hiển thị tất cả các bản vá</string>
     <string name="expert_mode_universal_patches">Bản vá phổ quát</string>
@@ -1211,6 +1212,19 @@ Chi tiết: %2$s"</string>
     <string name="settings_system_selected_patches_section">Số bản vá đã chọn</string>
     <string name="settings_system_no_patches_or_options">Không có bản vá hoặc tùy chỉnh được lưu</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">Các mục chọn</string>
+    <string name="selection_panel_copy_into">Sao chép vào %s</string>
+    <string name="selection_sets_title">Bộ</string>
+    <string name="selection_set_name">Tên bộ</string>
+    <string name="selection_set_save">Lưu thành bộ</string>
+    <string name="selection_set_replace">Thay thế bộ</string>
+    <string name="selection_set_saved">Đã lưu thành %s</string>
+    <string name="selection_set_applied">Đã chuyển sang %s</string>
+    <string name="selection_set_deleted">%s đã bị xóa</string>
+    <string name="selection_set_renamed">Đã đổi tên thành %s</string>
+    <string name="selection_set_rename_title">Đổi tên bộ</string>
+    <string name="selection_set_delete_title">Xóa bộ?</string>
+    <string name="selection_set_delete_message">Thao tác này sẽ xóa vĩnh viễn bộ %s</string>
     <string name="copy_selection_empty">Không có lựa chọn đã lưu nào khác để sao chép</string>
     <string name="copy_selection_available_format">%1$s/%2$s khả dụng</string>
     <!-- Settings - System Tab - Custom file picker -->

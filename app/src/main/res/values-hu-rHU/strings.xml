@@ -349,6 +349,7 @@
     <string name="expert_mode_restore_saved_done">A mentett kijelölés visszaállítva</string>
     <string name="expert_mode_copy_from_bundle_no_patches">Nincs megfelelő patch ehhez a csomaghoz</string>
     <string name="expert_mode_no_results">Nem találhatók módosítások</string>
+    <string name="expert_mode_selected_only">Csak a kiválasztott módosítások</string>
     <string name="expert_mode_selected_only_on">Csak a kiválasztott javítások megjelenítése</string>
     <string name="expert_mode_selected_only_off">Az összes javítás megjelenítése</string>
     <string name="expert_mode_universal_patches">Univerzális módosítások</string>
@@ -1214,6 +1215,19 @@ Részletek: %2$s"</string>
     <string name="settings_system_selected_patches_section">Kiválasztott módosítások</string>
     <string name="settings_system_no_patches_or_options">Nincsenek mentett módosítások vagy beállítások</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">Kiválasztások</string>
+    <string name="selection_panel_copy_into">Másolás a %s elembe</string>
+    <string name="selection_sets_title">Készletek</string>
+    <string name="selection_set_name">Készlet neve</string>
+    <string name="selection_set_save">Készletként mentés</string>
+    <string name="selection_set_replace">Készlet cseréje</string>
+    <string name="selection_set_saved">Mentve mint %s</string>
+    <string name="selection_set_applied">Átváltva a %s elemre</string>
+    <string name="selection_set_deleted">%s törölve</string>
+    <string name="selection_set_renamed">Átnevezve: %s</string>
+    <string name="selection_set_rename_title">Készlet átnevezése</string>
+    <string name="selection_set_delete_title">Készlet törlése?</string>
+    <string name="selection_set_delete_message">Ez véglegesen törli a %s készletet</string>
     <string name="copy_selection_empty">Nincs más mentett kiválasztás, amiből másolhatna</string>
     <string name="copy_selection_available_format">%1$s/%2$s elérhető</string>
     <!-- Settings - System Tab - Custom file picker -->

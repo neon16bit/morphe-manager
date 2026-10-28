@@ -347,6 +347,7 @@
     <string name="expert_mode_restore_saved_done">Obnovljena shranjena izbira</string>
     <string name="expert_mode_copy_from_bundle_no_patches">Ni ujemajočih popravkov v tem paketu</string>
     <string name="expert_mode_no_results">Ni najdenih popravkov</string>
+    <string name="expert_mode_selected_only">Le izbrani popravki</string>
     <string name="expert_mode_selected_only_on">Prikaz samo izbranih popravkov</string>
     <string name="expert_mode_selected_only_off">Prikaz vseh popravkov</string>
     <string name="expert_mode_universal_patches">Univerzalni popravki</string>
@@ -1206,6 +1207,19 @@ Podrobnosti: %2$s"</string>
     <string name="settings_system_selected_patches_section">Izbrani popravki</string>
     <string name="settings_system_no_patches_or_options">Ni shranjenih popravkov ali možnosti</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">Izbire</string>
+    <string name="selection_panel_copy_into">Kopiraj v %s</string>
+    <string name="selection_sets_title">Kompleti</string>
+    <string name="selection_set_name">Ime kompleta</string>
+    <string name="selection_set_save">Shrani kot komplet</string>
+    <string name="selection_set_replace">Zamenjaj komplet</string>
+    <string name="selection_set_saved">Shranjeno kot %s</string>
+    <string name="selection_set_applied">Preklopljeno na %s</string>
+    <string name="selection_set_deleted">%s izbrisano</string>
+    <string name="selection_set_renamed">Preimenovano v %s</string>
+    <string name="selection_set_rename_title">Preimenuj skupino</string>
+    <string name="selection_set_delete_title">Izbriši skupino?</string>
+    <string name="selection_set_delete_message">S tem trajno izbrišeš skupino %s</string>
     <string name="copy_selection_empty">Ni drugih shranjenih izbir na voljo za kopiranje</string>
     <string name="copy_selection_available_format">%1$s od %2$s na voljo</string>
     <!-- Settings - System Tab - Custom file picker -->
@@ -1341,6 +1355,7 @@ Podrobnosti: %2$s"</string>
     <string name="accessibility_app_moved_announcement">%1$s je pomaknjeno na položaj %2$s od %3$s</string>
     <string name="accessibility_scroll_to_top">Pomaknite se na vrh seznama</string>
     <string name="rename">Preimenuj</string>
+    <string name="more_options">Več možnosti</string>
     <string name="import_">Uvozi</string>
     <string name="export">Izvozi</string>
     <string name="copy">Kopiraj</string>

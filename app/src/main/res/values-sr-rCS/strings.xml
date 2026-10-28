@@ -347,6 +347,7 @@
     <string name="expert_mode_restore_saved_done">Vraćena sačuvana selekcija</string>
     <string name="expert_mode_copy_from_bundle_no_patches">Nema odgovarajućih zakrpa u ovom paketu</string>
     <string name="expert_mode_no_results">Nema pronađenih zakrpa</string>
+    <string name="expert_mode_selected_only">Samo izabrani zakrpe</string>
     <string name="expert_mode_selected_only_on">Prikazuju se samo odabrane zakrpe</string>
     <string name="expert_mode_selected_only_off">Prikazuju se sve zakrpe</string>
     <string name="expert_mode_universal_patches">Univerzalne zakrpe </string>
@@ -1190,6 +1191,19 @@ Detalji: %2$s"</string>
     <string name="settings_system_selected_patches_section">Izabrane zakrpe</string>
     <string name="settings_system_no_patches_or_options">Nema sačuvanih patch-ova ili opcija</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">Selekcije</string>
+    <string name="selection_panel_copy_into">Kopiraj u %s</string>
+    <string name="selection_sets_title">Setovi</string>
+    <string name="selection_set_name">Naziv seta</string>
+    <string name="selection_set_save">Sačuvaj kao set</string>
+    <string name="selection_set_replace">Zameni set</string>
+    <string name="selection_set_saved">Sačuvano kao %s</string>
+    <string name="selection_set_applied">Prebačeno na %s</string>
+    <string name="selection_set_deleted">%s je obrisano</string>
+    <string name="selection_set_renamed">Preimenovano u %s</string>
+    <string name="selection_set_rename_title">Preimenuj skup</string>
+    <string name="selection_set_delete_title">Izbriši skup?</string>
+    <string name="selection_set_delete_message">Ovo trajno briše skup %s</string>
     <string name="copy_selection_empty">Nema drugih sačuvanih selekcija za kopiranje</string>
     <string name="copy_selection_available_format">%1$s od %2$s dostupno</string>
     <!-- Settings - System Tab - Custom file picker -->
@@ -1325,6 +1339,7 @@ Detalji: %2$s"</string>
     <string name="accessibility_app_moved_announcement">%1$s je pomeren/a na poziciju %2$s od %3$s</string>
     <string name="accessibility_scroll_to_top">Skrolujte do vrha liste</string>
     <string name="rename">Preimenovanje</string>
+    <string name="more_options">Više opcija</string>
     <string name="import_">Uvoz</string>
     <string name="export">Izvezi</string>
     <string name="copy">Kopiraj</string>

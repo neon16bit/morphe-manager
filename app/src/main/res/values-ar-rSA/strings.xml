@@ -361,6 +361,7 @@
     <string name="expert_mode_restore_saved_done">تم استعادة التحديد المحفوظ</string>
     <string name="expert_mode_copy_from_bundle_no_patches">لا توجد تعديلات مطابقة في هذه المجموعة</string>
     <string name="expert_mode_no_results">لم يتم العثور على تعديلات</string>
+    <string name="expert_mode_selected_only">التعديلات المحددة فقط</string>
     <string name="expert_mode_selected_only_on">عرض التعديلات المحددة فقط</string>
     <string name="expert_mode_selected_only_off">عرض كل التعديلات</string>
     <string name="expert_mode_universal_patches">التعديلات الشاملة</string>
@@ -1237,6 +1238,19 @@ morphe_adaptive_monochrome_custom.xml
     <string name="settings_system_selected_patches_section">التعديلات المحددة</string>
     <string name="settings_system_no_patches_or_options">لا يوجد تعديلات أو خيارات محفوظة</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">التحديدات</string>
+    <string name="selection_panel_copy_into">نسخ إلى %s</string>
+    <string name="selection_sets_title">مجموعات</string>
+    <string name="selection_set_name">اسم المجموعة</string>
+    <string name="selection_set_save">حفظ كمجموعة</string>
+    <string name="selection_set_replace">استبدال المجموعة</string>
+    <string name="selection_set_saved">تم الحفظ باسم %s</string>
+    <string name="selection_set_applied">تم التبديل إلى %s</string>
+    <string name="selection_set_deleted">تم حذف %s</string>
+    <string name="selection_set_renamed">تم تغيير الاسم إلى %s</string>
+    <string name="selection_set_rename_title">إعادة تسمية المجموعة</string>
+    <string name="selection_set_delete_title">حذف المجموعة؟</string>
+    <string name="selection_set_delete_message">سيؤدي هذا إلى حذف المجموعة %s بشكل دائم</string>
     <string name="copy_selection_empty">لا توجد تحديدات أخرى محفوظة للنسخ منها</string>
     <string name="copy_selection_available_format">%1$s من %2$s متاح</string>
     <!-- Settings - System Tab - Custom file picker -->

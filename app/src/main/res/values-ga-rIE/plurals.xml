@@ -81,6 +81,13 @@
         <item quantity="many">%s foinsí</item>
         <item quantity="other">%s foinsí</item>
     </plurals>
+    <plurals name="selection_set_count">
+        <item quantity="one">%s seata</item>
+        <item quantity="two">%s seata</item>
+        <item quantity="few">%s seata</item>
+        <item quantity="many">%s seata</item>
+        <item quantity="other">%s seata</item>
+    </plurals>
     <plurals name="package_count">
         <item quantity="one">%s pacáiste</item>
         <item quantity="two">%s pacáistí</item>

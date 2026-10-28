@@ -349,6 +349,7 @@
     <string name="expert_mode_restore_saved_done">已保存的选择已恢复</string>
     <string name="expert_mode_copy_from_bundle_no_patches">此包中没有匹配的补丁</string>
     <string name="expert_mode_no_results">未找到修补的应用</string>
+    <string name="expert_mode_selected_only">仅选中的补丁</string>
     <string name="expert_mode_selected_only_on">正在显示选中的补丁仅显示选中的补丁</string>
     <string name="expert_mode_selected_only_off">正在显示所有补丁</string>
     <string name="expert_mode_universal_patches">通用补丁</string>
@@ -1214,6 +1215,19 @@ morphe_header_custom_dark.png
     <string name="settings_system_selected_patches_section">所选补丁</string>
     <string name="settings_system_no_patches_or_options">没有保存的补丁或选项</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">选择</string>
+    <string name="selection_panel_copy_into">复制到 %s</string>
+    <string name="selection_sets_title">组合</string>
+    <string name="selection_set_name">组合名称</string>
+    <string name="selection_set_save">保存为组合</string>
+    <string name="selection_set_replace">替换组合</string>
+    <string name="selection_set_saved">已保存为 %s</string>
+    <string name="selection_set_applied">已切换到 %s</string>
+    <string name="selection_set_deleted">%s 已删除</string>
+    <string name="selection_set_renamed">已重命名为 %s</string>
+    <string name="selection_set_rename_title">重命名选集</string>
+    <string name="selection_set_delete_title">删除选集？</string>
+    <string name="selection_set_delete_message">这将永久删除选集 %s</string>
     <string name="copy_selection_empty">没有其他已保存的选定内容可供复制</string>
     <string name="copy_selection_available_format">%1$s of %2$s 可用</string>
     <!-- Settings - System Tab - Custom file picker -->

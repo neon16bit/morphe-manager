@@ -349,6 +349,7 @@
     <string name="expert_mode_restore_saved_done">የተቀመጠው ምርጫ ተመልሷል</string>
     <string name="expert_mode_copy_from_bundle_no_patches">በዚህ ባንድል ውስጥ የሚዛመዱ ፓቾች የሉም</string>
     <string name="expert_mode_no_results">ምንም ፓቾች አልተገኙም</string>
+    <string name="expert_mode_selected_only">የተመረጡ ፓቾች ብቻ</string>
     <string name="expert_mode_selected_only_on">የተመረጡ ፓቾች ብቻ እየታዩ ነው</string>
     <string name="expert_mode_selected_only_off">ሁሉም ፓቾች እየታዩ ነው</string>
     <string name="expert_mode_universal_patches">ዩኒቨርሳል ፓቾች</string>
@@ -1214,6 +1215,19 @@ morphe_header_custom_dark.png
     <string name="settings_system_selected_patches_section">የተመረጡ ፓቾች</string>
     <string name="settings_system_no_patches_or_options">የተቀመጡ ፓቾች ወይም አማራጮች የሉም</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">ምርጫዎች</string>
+    <string name="selection_panel_copy_into">ወደ %s ኮፒ አድርግ</string>
+    <string name="selection_sets_title">ስብስቦች</string>
+    <string name="selection_set_name">የስብስብ ስም</string>
+    <string name="selection_set_save">እንደ ስብስብ አስቀምጥ</string>
+    <string name="selection_set_replace">ስብስቡን ተካ</string>
+    <string name="selection_set_saved">እንደ %s ተቀምጧል</string>
+    <string name="selection_set_applied">ወደ %s ተቀይሯል</string>
+    <string name="selection_set_deleted">%s ተሰርዟል</string>
+    <string name="selection_set_renamed">ወደ %s ተቀይሯል</string>
+    <string name="selection_set_rename_title">ስብስቡን ስም ቀይር</string>
+    <string name="selection_set_delete_title">ስብስቡን ይሰርዙ?</string>
+    <string name="selection_set_delete_message">ይህ ስብስቡን %s በቋሚነት ይሰርዘዋል</string>
     <string name="copy_selection_empty">ለኮፒ የሚሆኑ ሌሎች የተቀመጡ ምርጫዎች የሉም</string>
     <string name="copy_selection_available_format">ከ%2$s ውስጥ %1$s ይገኛሉ</string>
     <!-- Settings - System Tab - Custom file picker -->
@@ -1349,6 +1363,7 @@ morphe_header_custom_dark.png
     <string name="accessibility_app_moved_announcement">%1$s ወደ ቦታ %2$s ከ %3$s ተዛውሯል</string>
     <string name="accessibility_scroll_to_top">ወደ ዝርዝሩ አናት ይሸረሽሩ</string>
     <string name="rename">ስም ቀይር</string>
+    <string name="more_options">ተጨማሪ አማራጮች</string>
     <string name="import_">አስገባ</string>
     <string name="export">ላክ</string>
     <string name="copy">ኮፒ ያድርጉ</string>

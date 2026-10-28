@@ -347,6 +347,7 @@
     <string name="expert_mode_restore_saved_done">Враћена сачувана селекција</string>
     <string name="expert_mode_copy_from_bundle_no_patches">Нема поклапајућих закрпа у овом пакету</string>
     <string name="expert_mode_no_results">Нema пронађених печева</string>
+    <string name="expert_mode_selected_only">Само одабрани патчеви</string>
     <string name="expert_mode_selected_only_on">Приказ само изабраних закрпа</string>
     <string name="expert_mode_selected_only_off">Приказ свих закрпа</string>
     <string name="expert_mode_universal_patches">Универзалне површине</string>
@@ -1206,6 +1207,19 @@ morphe_header_custom_dark.png
     <string name="settings_system_selected_patches_section">Изабрани пакети</string>
     <string name="settings_system_no_patches_or_options">Нema сачуваних пакета или опција</string>
     <!-- Selection panel: saved selection, sets and copies -->
+    <string name="selection_panel_title">Селекције</string>
+    <string name="selection_panel_copy_into">Копирај у %s</string>
+    <string name="selection_sets_title">Скупови</string>
+    <string name="selection_set_name">Назив скупа</string>
+    <string name="selection_set_save">Сачувај као скуп</string>
+    <string name="selection_set_replace">Замени скуп</string>
+    <string name="selection_set_saved">Сачувано као %s</string>
+    <string name="selection_set_applied">Пребачено на %s</string>
+    <string name="selection_set_deleted">%s је обрисано</string>
+    <string name="selection_set_renamed">Преименовано у %s</string>
+    <string name="selection_set_rename_title">Преименуј скуп</string>
+    <string name="selection_set_delete_title">Обриши скуп?</string>
+    <string name="selection_set_delete_message">Ово трајно брише скуп %s</string>
     <string name="copy_selection_empty">Нема других сачуваних селекција за копирање</string>
     <string name="copy_selection_available_format">%1$s od %2$s dostupno</string>
     <!-- Settings - System Tab - Custom file picker -->
@@ -1341,6 +1355,7 @@ morphe_header_custom_dark.png
     <string name="accessibility_app_moved_announcement">%1$s је померен на позицију %2$s од %3$s</string>
     <string name="accessibility_scroll_to_top">Скролуј до врха листе</string>
     <string name="rename">Преименуј</string>
+    <string name="more_options">Више опција</string>
     <string name="import_">Увоз</string>
     <string name="export">Извези</string>
     <string name="copy">Копирај</string>

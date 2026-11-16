@@ -346,8 +346,6 @@ Pilih dari mana untuk mengambil APK tersebut"</string>
     <string name="home_external_apk_expert_mode_required">Ciri ini hanya tersedia dalam mod Pakar</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Cari tampalan</string>
-    <string name="expert_mode_disable_all">Matikan semua</string>
-    <string name="expert_mode_enable_all">Dayakan semua</string>
     <string name="expert_mode_enable_all_universal_pending">Ketuk sekali lagi untuk tampalan universal</string>
     <string name="expert_mode_universal_all_warning_title">Aktifkan semua tampalan universal?</string>
     <string name="expert_mode_universal_all_warning_message">Tampalan universal tidak diuji bersama. Mengaktifkan kesemuanya sekaligus boleh menyebabkan konflik, kegagalan tampalan atau ranap</string>
@@ -568,9 +566,12 @@ Teruskannya mungkin boleh menyebabkan aplikasi tidak dapat berfungsi</string>
     <string name="app_links_unverified_banner_description">Pautan web disokong kini dibuka dalam pelayar anda dan bukannya aplikasi ini</string>
     <string name="app_links_enable_auto">Aktifkan secara automatik</string>
     <string name="app_links_enable_auto_in_progress">Mengaktifkan pautan…</string>
+    <string name="app_links_disable_all_in_progress">Melumpuhkan pautan…</string>
     <string name="app_links_open_settings">Buka tetapan pautan</string>
     <string name="app_links_repair_success">Pautan aplikasi berjaya diaktifkan</string>
     <string name="app_links_repair_failed">Gagal mengaktifkan pautan aplikasi secara automatik</string>
+    <string name="app_links_disable_success">Pautan aplikasi dilumpuhkan</string>
+    <string name="app_links_disable_failed">Gagal melumpuhkan pautan aplikasi</string>
     <string name="app_links_change_failed">Gagal mengubah pautan aplikasi</string>
     <string name="app_links_all_verified">Semua pautan disokong dikonfigurasikan untuk dibuka dalam aplikasi ini</string>
     <string name="app_links_fix">Baiki pautan</string>
@@ -1416,6 +1417,8 @@ Butiran: %2$s"</string>
     <string name="include">Sertakan</string>
     <string name="disable">Lumpuhkan</string>
     <string name="enable">Dayakan</string>
+    <string name="enable_all">Dayakan semua</string>
+    <string name="disable_all">Matikan semua</string>
     <string name="trust">Percayai</string>
     <string name="loading">Memuat…</string>
     <string name="creating">Mencipta…</string>

@@ -346,8 +346,6 @@ APK-г хаанаас авахыг сонгоно уу"</string>
     <string name="home_external_apk_expert_mode_required">Энэхүү функц нь зөвхөн Эксперт горимд боломжтой</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Патч хайх</string>
-    <string name="expert_mode_disable_all">Бүгдийг идэвхгүй болгох</string>
-    <string name="expert_mode_enable_all">Бүгдийг идэвхжүүлэх</string>
     <string name="expert_mode_enable_all_universal_pending">Универсал патчуудыг идэвхжүүлэхийн тулд дахин дарна уу</string>
     <string name="expert_mode_universal_all_warning_title">Бүх универсал патчуудыг идэвхжүүлэх үү?</string>
     <string name="expert_mode_universal_all_warning_message">Түгээмэл патчуудыг хамтдаа туршиж үзээгүй. Бүгдийг нь нэгэн зэрэг идэвхжүүлбэл зөрчил үүсэх, патчлах үйлдэл амжилтгүй болох эсвэл апп гацаж магадгүй</string>
@@ -567,9 +565,12 @@ APK-г хаанаас авахыг сонгоно уу"</string>
     <string name="app_links_unverified_banner_description">Дэмжигдсэн веб холбоосууд одоогоор энэ аппликейшний оронд таны хөтөч дээр нээгдэж байна</string>
     <string name="app_links_enable_auto">Автоматаар идэвхжүүлэх</string>
     <string name="app_links_enable_auto_in_progress">Холбоосуудыг идэвхжүүлж байна…</string>
+    <string name="app_links_disable_all_in_progress">Холбоосыг идэвхгүй болгож байна…</string>
     <string name="app_links_open_settings">Холбоосыг нээх тохиргоо</string>
     <string name="app_links_repair_success">Апп-ын холбоосууд амжилттай идэвхжлээ</string>
     <string name="app_links_repair_failed">Апп-ын холбоосуудыг автоматаар идэвхжүүлж чадсангүй</string>
+    <string name="app_links_disable_success">Аппликейшны холбоосыг идэвхгүй болголоо</string>
+    <string name="app_links_disable_failed">Аппликейшны холбоосыг идэвхгүй болгож чадсангүй</string>
     <string name="app_links_change_failed">Апп холбоосыг өөрчлөхөд алдаа гарлаа</string>
     <string name="app_links_all_verified">Дэмжигдсэн бүх холбоосууд энэ аппликейшн дээр нээгдэхээр тохируулагдсан байна</string>
     <string name="app_links_fix">Холбоосуудыг засах</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">Оруулах</string>
     <string name="disable">Идэвхгүй болгох</string>
     <string name="enable">Идэвхжүүлэх</string>
+    <string name="enable_all">Бүгдийг идэвхжүүлэх</string>
+    <string name="disable_all">Бүгдийг идэвхгүй болгох</string>
     <string name="trust">Итгэх</string>
     <string name="loading">Уншиж байна…</string>
     <string name="creating">Үүсгэж байна…</string>

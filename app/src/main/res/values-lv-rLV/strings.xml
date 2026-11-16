@@ -346,8 +346,6 @@ Izvēlieties, no kurienes ņemt tās APK"</string>
     <string name="home_external_apk_expert_mode_required">Šī funkcija ir pieejama tikai Eksperta režīmā</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Meklēt patchus</string>
-    <string name="expert_mode_disable_all">Atslēgt visu</string>
-    <string name="expert_mode_enable_all">Iespējot visu</string>
     <string name="expert_mode_enable_all_universal_pending">Pieskarieties vēlreiz universālajiem labojumiem</string>
     <string name="expert_mode_universal_all_warning_title">Aktivizēt visus universālos labojumus?</string>
     <string name="expert_mode_universal_all_warning_message">Universālie labojumi nav testēti kopā. Aktivizējot visus vienlaikus, var rasties konflikti, labošanas kļūme vai avārijas</string>
@@ -566,9 +564,12 @@ Lai iegūtu labākos rezultātus, šī lietotne iesaka labot &lt;b&gt;pilnu APK&
     <string name="app_links_unverified_banner_description">Atbalstītās tīmekļa saites pašlaik atveras jūsu pārlūkā nevis šajā lietotnē</string>
     <string name="app_links_enable_auto">Iespējot automātiski</string>
     <string name="app_links_enable_auto_in_progress">Saites tiek iespējotas…</string>
+    <string name="app_links_disable_all_in_progress">Atspējo saites…</string>
     <string name="app_links_open_settings">Atvērt saites iestatījumus</string>
     <string name="app_links_repair_success">Lietotnes saites veiksmīgi iespējotas</string>
     <string name="app_links_repair_failed">Neizdevās automātiski iespējot lietotnes saites</string>
+    <string name="app_links_disable_success">Lietotnes saites atspējotas</string>
+    <string name="app_links_disable_failed">Neizdevās atspējot lietotnes saites</string>
     <string name="app_links_change_failed">Neizdevās mainīt lietotnes saites</string>
     <string name="app_links_all_verified">Visas atbalstītās saites ir konfigurētas atvēršanai šajā lietotnē</string>
     <string name="app_links_fix">Labot saites</string>
@@ -1414,6 +1415,8 @@ Sīkāk: %2$s"</string>
     <string name="include">Iekļaut</string>
     <string name="disable">Atslēgt</string>
     <string name="enable">Iespējot</string>
+    <string name="enable_all">Iespējot visu</string>
+    <string name="disable_all">Atspēt visu</string>
     <string name="trust">Uzticēties</string>
     <string name="loading">Ielādē…</string>
     <string name="creating">Veido...</string>

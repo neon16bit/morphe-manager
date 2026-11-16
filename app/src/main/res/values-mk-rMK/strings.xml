@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">Оваа функција е достапна само во експертски режим</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Пребарувај поправки</string>
-    <string name="expert_mode_disable_all">Исклучи ги сите</string>
-    <string name="expert_mode_enable_all">Вклучи ги сите</string>
     <string name="expert_mode_enable_all_universal_pending">Допрете повторно за универзалните закрпи</string>
     <string name="expert_mode_universal_all_warning_title">Да се овозможат сите универзални закрпи?</string>
     <string name="expert_mode_universal_all_warning_message">Универзалните закрпи не се тестирани заедно. Овозможувањето на сите одеднаш може да предизвика конфликти, неуспешно закрпување или падови на апликацијата</string>
@@ -566,9 +564,12 @@
     <string name="app_links_unverified_banner_description">Поддржаните веб-линкови моментално се отвораат во вашиот прелистувач наместо во оваа апликација</string>
     <string name="app_links_enable_auto">Овозможи автоматски</string>
     <string name="app_links_enable_auto_in_progress">Овозможување на врските…</string>
+    <string name="app_links_disable_all_in_progress">Оневозможување на врските…</string>
     <string name="app_links_open_settings">Отвори ги поставките за врски</string>
     <string name="app_links_repair_success">Врските на апликацијата се овозможени успешно</string>
     <string name="app_links_repair_failed">Не успеа автоматското овозможување на врските на апликацијата</string>
+    <string name="app_links_disable_success">Врските на апликацијата се оневозможени</string>
+    <string name="app_links_disable_failed">Не успеа оневозможувањето на врските на апликацијата</string>
     <string name="app_links_change_failed">Неуспешно менување на врските до апликацијата</string>
     <string name="app_links_all_verified">Сите поддржани врски се конфигурирани да се отвораат во оваа апликација</string>
     <string name="app_links_fix">Поправете ги врските</string>
@@ -1414,6 +1415,8 @@ morphe_header_custom_dark.png
     <string name="include">Вклучи</string>
     <string name="disable">Исклучи</string>
     <string name="enable">Вклучи</string>
+    <string name="enable_all">Овозможи ги сите</string>
+    <string name="disable_all">Оневозможи ги сите</string>
     <string name="trust">Доверба</string>
     <string name="loading">Вчитување…</string>
     <string name="creating">Креирање…</string>

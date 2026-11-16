@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">此功能僅在專家模式中提供</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">搜尋修補程式</string>
-    <string name="expert_mode_disable_all">全部停用</string>
-    <string name="expert_mode_enable_all">全部啟用</string>
     <string name="expert_mode_enable_all_universal_pending">再點按一次以套用通用修補程式</string>
     <string name="expert_mode_universal_all_warning_title">啟用所有通用修補程式？</string>
     <string name="expert_mode_universal_all_warning_message">通用修補程式未經過共同測試。同時啟用所有修補程式可能導致衝突、修補失敗或當機</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">目前支援的網頁連結會在瀏覽器中開啟，而非在此應用程式中開啟</string>
     <string name="app_links_enable_auto">自動啟用</string>
     <string name="app_links_enable_auto_in_progress">正在啟用連結……</string>
+    <string name="app_links_disable_all_in_progress">正在停用連結……</string>
     <string name="app_links_open_settings">開啟連結設定</string>
     <string name="app_links_repair_success">已成功啟用應用程式連結</string>
     <string name="app_links_repair_failed">自動啟用應用程式連結失敗</string>
+    <string name="app_links_disable_success">App 連結已停用</string>
+    <string name="app_links_disable_failed">停用 App 連結失敗</string>
     <string name="app_links_change_failed">變更應用程式連結失敗</string>
     <string name="app_links_all_verified">所有受支援的連結都已設定為在此應用程式中開啟</string>
     <string name="app_links_fix">修正連結</string>
@@ -1413,6 +1414,8 @@ morphe_header_custom_dark.png
     <string name="include">包含</string>
     <string name="disable">停用</string>
     <string name="enable">啟用</string>
+    <string name="enable_all">全部啟用</string>
+    <string name="disable_all">全部停用</string>
     <string name="trust">信任</string>
     <string name="loading">載入中……</string>
     <string name="creating">正在建立…</string>

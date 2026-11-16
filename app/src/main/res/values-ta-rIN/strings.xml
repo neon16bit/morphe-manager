@@ -111,6 +111,9 @@
     <string name="batch_queue_keep">தக்கவை</string>
     <!-- Home Screen - App Info Screen -->
     <string name="home_app_info_install_type_root">ரூட் நிறுவல்</string>
+    <string name="app_links_disable_all_in_progress">இணைப்புகளை முடக்குகிறது…</string>
+    <string name="app_links_disable_success">செயலி இணைப்புகள் முடக்கப்பட்டது</string>
+    <string name="app_links_disable_failed">செயலி இணைப்புகளை முடக்க முடியவில்லை</string>
     <string name="app_links_change_failed">ஆப் இணைப்புகளை மாற்ற முடியவில்லை</string>
     <!-- Home Screen - Root Mode -->
     <!-- "%1$s" is where the setting is, such as "Settings > Installation > Patch mode", built from the names on those screens. "%2$s" is the option it is set to, such as "Ask every time". -->
@@ -250,6 +253,8 @@
     <!-- Sections the settings page lists, each opening a page of its own. A summary names what the section holds -->
     <string name="settings_section_import_export">இறக்குமதி மற்றும் ஏற்றுமதி</string>
     <string name="create">உருவாக்கு</string>
+    <string name="enable_all">அனைத்தையும் இயக்கு</string>
+    <string name="disable_all">அனைத்தையும் முடக்கவும்</string>
     <!-- Who made a patch source, as a field label -->
     <!-- A file a patch source is added from, as a field label -->
     <!-- Chip marking an install as a copy of an app kept alongside it, a noun rather than an action -->

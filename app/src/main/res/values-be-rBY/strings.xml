@@ -347,8 +347,6 @@
     <string name="home_external_apk_expert_mode_required">Гэтая функцыя даступная толькі ў экспертным рэжыме</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Пошук патчаў</string>
-    <string name="expert_mode_disable_all">Адключыць усё</string>
-    <string name="expert_mode_enable_all">Уключыць усё</string>
     <string name="expert_mode_enable_all_universal_pending">Націсніце яшчэ раз для універсальных патчаў</string>
     <string name="expert_mode_universal_all_warning_title">Уключыць усе універсальныя патчы?</string>
     <string name="expert_mode_universal_all_warning_message">Універсальныя патчы не тэсціраваліся разам. Уключэнне іх усіх адначасова можа прывесці да канфліктаў, памылак пры патчынгу або збояў</string>
@@ -568,9 +566,12 @@
     <string name="app_links_unverified_banner_description">Падтрыманыя вэб-спасылкі зараз адкрываюцца ў браўзеры замест гэтай праграмы</string>
     <string name="app_links_enable_auto">Уключыць аўтаматычна</string>
     <string name="app_links_enable_auto_in_progress">Уключэнне спасылак…</string>
+    <string name="app_links_disable_all_in_progress">Адключаэнне спасылак…</string>
     <string name="app_links_open_settings">Адкрыць налады спасылак</string>
     <string name="app_links_repair_success">Спасылкі праграмы паспяхова ўключаны</string>
     <string name="app_links_repair_failed">Не ўдалося аўтаматычна ўключыць спасылкі праграмы</string>
+    <string name="app_links_disable_success">Спасылкі праграмы адключаны</string>
+    <string name="app_links_disable_failed">Не удалось адключыць спасылкі праграмы</string>
     <string name="app_links_change_failed">Не ўдалося змяніць спасылкі праграмы</string>
     <string name="app_links_all_verified">Усе падтрыманыя спасылкі наладжаны на адкрыццё ў гэтай праграме</string>
     <string name="app_links_fix">Выправіць спасылкі</string>
@@ -1416,6 +1417,8 @@ morphe_header_custom_dark.png
     <string name="include">Уключыць</string>
     <string name="disable">Адключыць</string>
     <string name="enable">Уключыць</string>
+    <string name="enable_all">Уключыць усё</string>
+    <string name="disable_all">Адключаць усё</string>
     <string name="trust">Давяраць</string>
     <string name="loading">Загрузка…</string>
     <string name="creating">Стварэнне…</string>

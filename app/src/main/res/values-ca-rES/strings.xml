@@ -346,8 +346,6 @@ Tria d'on vols obtenir l'APK"</string>
     <string name="home_external_apk_expert_mode_required">Aquesta funció només està disponible en mode Expert</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Cerca pegats</string>
-    <string name="expert_mode_disable_all">Desactivar tot</string>
-    <string name="expert_mode_enable_all">Activar tot</string>
     <string name="expert_mode_enable_all_universal_pending">Toca de nou per als patxes universals</string>
     <string name="expert_mode_universal_all_warning_title">Activar tots els pegats universals?</string>
     <string name="expert_mode_universal_all_warning_message">Els pegats universals no estan provats conjuntament. Activar-los tots a la vegada pot causar conflictes, falls en el pegat o tancaments inesperats</string>
@@ -567,9 +565,12 @@ Per obtenir els millors resultats, aquesta aplicació recomana patxar un &lt;b&g
     <string name="app_links_unverified_banner_description">Els enllaços web compatibles s\'obrin actualment al navegador en lloc d\'aquesta aplicació</string>
     <string name="app_links_enable_auto">Activa automàticament</string>
     <string name="app_links_enable_auto_in_progress">Activant enllaços…</string>
+    <string name="app_links_disable_all_in_progress">Desactivant enllaços…</string>
     <string name="app_links_open_settings">Obre la configuració d\'enllaços</string>
     <string name="app_links_repair_success">S\'han activat els enllaços de l\'aplicació correctament</string>
     <string name="app_links_repair_failed">No s\'han pogut activar els enllaços de l\'aplicació automàticament</string>
+    <string name="app_links_disable_success">Enllaços de l\'app desactivats</string>
+    <string name="app_links_disable_failed">Error en desactivar els enllaços de l\'app</string>
     <string name="app_links_change_failed">Error en canviar els enllaços de l\'aplicació</string>
     <string name="app_links_all_verified">Tots els enllaços compatibles estan configurats per obrir-se en aquesta aplicació</string>
     <string name="app_links_fix">Corregir enllaços</string>
@@ -1415,6 +1416,8 @@ Detalls: %2$s"</string>
     <string name="include">Incloure</string>
     <string name="disable">Desactivar</string>
     <string name="enable">Activar</string>
+    <string name="enable_all">Activar tot</string>
+    <string name="disable_all">Desactivar tot</string>
     <string name="trust">Confia</string>
     <string name="loading">Carregant…</string>
     <string name="creating">Creant…</string>

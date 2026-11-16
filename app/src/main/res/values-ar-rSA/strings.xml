@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">هذه الميزة متاحة فقط في وضع الخبير</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">البحث عن التعديلات</string>
-    <string name="expert_mode_disable_all">تعطيل الكل</string>
-    <string name="expert_mode_enable_all">تمكين الكل</string>
     <string name="expert_mode_enable_all_universal_pending">انقر مرة أخرى لتطبيق التعديلات الشاملة</string>
     <string name="expert_mode_universal_all_warning_title">تمكين كل التعديلات الشاملة؟</string>
     <string name="expert_mode_universal_all_warning_message">التعديلات الشاملة لم تُختبر معًا. قد يؤدي تمكين جميعها مرةً واحدة إلى حدوث تعارضات، فشل في تطبيق التعديل، أو أعطال</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">تُفتح روابط الويب المدعومة حاليًا في متصفحك بدلًا من هذا التطبيق</string>
     <string name="app_links_enable_auto">تمكين تلقائيًا</string>
     <string name="app_links_enable_auto_in_progress">جارٍ تمكين الروابط…</string>
+    <string name="app_links_disable_all_in_progress">جارٍ تعطيل الروابط…</string>
     <string name="app_links_open_settings">فتح إعدادات الروابط</string>
     <string name="app_links_repair_success">تم تمكين روابط التطبيق بنجاح</string>
     <string name="app_links_repair_failed">تعذّر تمكين روابط التطبيقات تلقائيًا</string>
+    <string name="app_links_disable_success">تم تعطيل روابط التطبيق</string>
+    <string name="app_links_disable_failed">فشل تعطيل روابط التطبيق</string>
     <string name="app_links_change_failed">فشل تغيير روابط التطبيق</string>
     <string name="app_links_all_verified">تم تكوين جميع الروابط المدعومة لتُفتح في هذا التطبيق</string>
     <string name="app_links_fix">إصلاح الروابط</string>
@@ -1419,6 +1420,8 @@ morphe_adaptive_monochrome_custom.xml
     <string name="include">إدراج</string>
     <string name="disable">تعطيل</string>
     <string name="enable">تمكين</string>
+    <string name="enable_all">تمكين الكل</string>
+    <string name="disable_all">تعطيل الكل</string>
     <string name="trust">موثوق</string>
     <string name="loading">جارٍ التحميل…</string>
     <string name="creating">جارٍ الإنشاء…</string>

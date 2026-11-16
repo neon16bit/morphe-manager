@@ -346,8 +346,6 @@ Valitse, mistä sen APK haetaan"</string>
     <string name="home_external_apk_expert_mode_required">Tämä ominaisuus on käytettävissä vain asiantuntijatilassa</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Hae lisäosia</string>
-    <string name="expert_mode_disable_all">Poista kaikki käytöstä</string>
-    <string name="expert_mode_enable_all">Ota kaikki käyttöön</string>
     <string name="expert_mode_enable_all_universal_pending">Napauta uudelleen ottaaksesi universaalit paikkaukset käyttöön</string>
     <string name="expert_mode_universal_all_warning_title">Ota käyttöön kaikki universaalit paikkaukset?</string>
     <string name="expert_mode_universal_all_warning_message">Universaalit paikkaukset eivät ole testattuja yhdessä. Kaikkien käyttöönotto kerralla voi aiheuttaa ristiriitoja, epäonnistuneita paikkauksia tai kaatumisia</string>
@@ -567,9 +565,12 @@ Parhaan tuloksen saavuttamiseksi sovellus suosittelee &lt;b&gt;kokonaisen APK:n&
     <string name="app_links_unverified_banner_description">Tuetut verkkolinkit avautuvat tällä hetkellä selaimessasi tämän sovelluksen sijaan</string>
     <string name="app_links_enable_auto">Ota käyttöön automaattisesti</string>
     <string name="app_links_enable_auto_in_progress">Otetaan linkkejä käyttöön…</string>
+    <string name="app_links_disable_all_in_progress">Poistetaan linkkejä käytöstä…</string>
     <string name="app_links_open_settings">Avaa linkkien asetukset</string>
     <string name="app_links_repair_success">Sovelluslinkit on otettu käyttöön onnistuneesti</string>
     <string name="app_links_repair_failed">Sovelluslinkkien automaattinen käyttöönotto epäonnistui</string>
+    <string name="app_links_disable_success">Sovelluslinkit poistettu käytöstä</string>
+    <string name="app_links_disable_failed">Sovelluslinkkien poistaminen käytöstä epäonnistui</string>
     <string name="app_links_change_failed">Sovelluslinkkien muuttaminen epäonnistui</string>
     <string name="app_links_all_verified">Kaikki tuetut linkit on määritetty avautumaan tässä sovelluksessa</string>
     <string name="app_links_fix">Korjaa linkit</string>
@@ -1415,6 +1416,8 @@ Yksityiskohdat: %2$s"</string>
     <string name="include">Sisällytä</string>
     <string name="disable">Poista käytöstä</string>
     <string name="enable">Ota käyttöön</string>
+    <string name="enable_all">Ota kaikki käyttöön</string>
+    <string name="disable_all">Poista kaikki käytöstä</string>
     <string name="trust">Luota</string>
     <string name="loading">Ladataan…</string>
     <string name="creating">Luodaan…</string>

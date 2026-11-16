@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">Эта функция доступна только в режиме эксперта</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Поиск патчей</string>
-    <string name="expert_mode_disable_all">Отключить все</string>
-    <string name="expert_mode_enable_all">Включить все</string>
     <string name="expert_mode_enable_all_universal_pending">Нажмите еще раз для универсальных патчей</string>
     <string name="expert_mode_universal_all_warning_title">Включить все универсальные патчи?</string>
     <string name="expert_mode_universal_all_warning_message">Универсальные патчи не тестировались вместе. Включение всех одновременно может вызвать конфликты, ошибки патчинга или краши</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">Поддерживаемые веб-ссылки сейчас открываются в вашем браузере, а не в этом приложении</string>
     <string name="app_links_enable_auto">Включить автоматически</string>
     <string name="app_links_enable_auto_in_progress">Включение ссылок…</string>
+    <string name="app_links_disable_all_in_progress">Отключение ссылок…</string>
     <string name="app_links_open_settings">Открыть настройки ссылок</string>
     <string name="app_links_repair_success">Ссылки на приложение успешно включены</string>
     <string name="app_links_repair_failed">Не удалось автоматически включить ссылки приложения</string>
+    <string name="app_links_disable_success">Ссылки приложения отключены</string>
+    <string name="app_links_disable_failed">Не удалось отключить ссылки приложения</string>
     <string name="app_links_change_failed">Не удалось изменить ссылки приложения</string>
     <string name="app_links_all_verified">Все поддерживаемые ссылки настроены на открытие в этом приложении</string>
     <string name="app_links_fix">Исправить ссылки</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">Включить</string>
     <string name="disable">Отключить</string>
     <string name="enable">Включить</string>
+    <string name="enable_all">Включить все</string>
+    <string name="disable_all">Отключить все</string>
     <string name="trust">Доверять</string>
     <string name="loading">Загрузка…</string>
     <string name="creating">Создается…</string>

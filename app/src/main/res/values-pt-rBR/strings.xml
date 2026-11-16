@@ -344,8 +344,6 @@
     <string name="home_external_apk_expert_mode_required">Este recurso está disponível apenas no Modo Expert</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Procurar patches</string>
-    <string name="expert_mode_disable_all">Desativar todos</string>
-    <string name="expert_mode_enable_all">Ativar todos</string>
     <string name="expert_mode_enable_all_universal_pending">Toque novamente para patches universais</string>
     <string name="expert_mode_universal_all_warning_title">Ativar todos os patches universais?</string>
     <string name="expert_mode_universal_all_warning_message">Patches universais não são testados juntos. Ativar todos de uma vez pode causar conflitos, falhas ao patchear ou travamentos</string>
@@ -565,9 +563,12 @@ Para obter os melhores resultados, este aplicativo recomenda corrigir um &lt;b&g
     <string name="app_links_unverified_banner_description">Os links da web compatíveis atualmente abrem no seu navegador em vez deste app</string>
     <string name="app_links_enable_auto">Ativar automaticamente</string>
     <string name="app_links_enable_auto_in_progress">Ativando links…</string>
+    <string name="app_links_disable_all_in_progress">Desativando links…</string>
     <string name="app_links_open_settings">Abrir configurações de links</string>
     <string name="app_links_repair_success">Links do app ativados com sucesso</string>
     <string name="app_links_repair_failed">Falha ao ativar os links do aplicativo automaticamente</string>
+    <string name="app_links_disable_success">Links do app desativados</string>
+    <string name="app_links_disable_failed">Falha ao desativar links do app</string>
     <string name="app_links_change_failed">Falha ao alterar links do app</string>
     <string name="app_links_all_verified">Todos os links suportados estão configurados para abrir neste aplicativo</string>
     <string name="app_links_fix">Corrigir links</string>
@@ -1414,6 +1415,8 @@ Detalhes: %2$s"</string>
     <string name="include">Incluir</string>
     <string name="disable">Desativar</string>
     <string name="enable">Ativar</string>
+    <string name="enable_all">Habilitar tudo</string>
+    <string name="disable_all">Desativar tudo</string>
     <string name="trust">Confiar</string>
     <string name="loading">Carregando…</string>
     <string name="creating">Criando…</string>

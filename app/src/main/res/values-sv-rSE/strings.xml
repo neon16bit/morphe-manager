@@ -346,8 +346,6 @@ Välj var dess APK ska hämtas ifrån"</string>
     <string name="home_external_apk_expert_mode_required">Den här funktionen är endast tillgänglig i expertläget</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Sök efter tillägg</string>
-    <string name="expert_mode_disable_all">Inaktivera alla</string>
-    <string name="expert_mode_enable_all">Aktivera alla</string>
     <string name="expert_mode_enable_all_universal_pending">Tryck igen för universella tillägg</string>
     <string name="expert_mode_universal_all_warning_title">Aktivera alla universella tillägg?</string>
     <string name="expert_mode_universal_all_warning_message">Universella tillägg testas inte tillsammans. Om du aktiverar alla på en gång kan det orsaka konflikter, misslyckad modifiering eller krascher</string>
@@ -567,9 +565,12 @@ För bästa resultat rekommenderar den här appen att du modifierar en &lt;b&gt;
     <string name="app_links_unverified_banner_description">Webblänkar som stöds öppnas för närvarande i din webbläsare istället för i den här appen</string>
     <string name="app_links_enable_auto">Aktivera automatiskt</string>
     <string name="app_links_enable_auto_in_progress">Aktiverar länkar …</string>
+    <string name="app_links_disable_all_in_progress">Inaktiverar länkar…</string>
     <string name="app_links_open_settings">Öppna länkinställningar</string>
     <string name="app_links_repair_success">Applänkar har aktiverats</string>
     <string name="app_links_repair_failed">Det gick inte att aktivera applänkar automatiskt</string>
+    <string name="app_links_disable_success">App-länkar inaktiverade</string>
+    <string name="app_links_disable_failed">Misslyckades med att inaktivera app-länkar</string>
     <string name="app_links_change_failed">Misslyckades med att ändra applänkar</string>
     <string name="app_links_all_verified">Alla stödda länkar är konfigurerade för att öppnas i den här appen</string>
     <string name="app_links_fix">Åtgärda länkar</string>
@@ -1415,6 +1416,8 @@ Information: %2$s"</string>
     <string name="include">Inkludera</string>
     <string name="disable">Inaktivera</string>
     <string name="enable">Aktivera</string>
+    <string name="enable_all">Aktivera alla</string>
+    <string name="disable_all">Inaktivera alla</string>
     <string name="trust">Lita på</string>
     <string name="loading">Läser in …</string>
     <string name="creating">Skapar …</string>

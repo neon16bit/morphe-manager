@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">Այս հնարավորությունը հասանելի է միայն Փորձագետի ռեժիմում</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Փնտրել փաթեթներ</string>
-    <string name="expert_mode_disable_all">Անջատել բոլորը</string>
-    <string name="expert_mode_enable_all">Միացնել բոլորը</string>
     <string name="expert_mode_enable_all_universal_pending">Հպեք նորից՝ համապարփակ փոփոխությունների համար</string>
     <string name="expert_mode_universal_all_warning_title">Ակտիվացնել բոլոր համընդհանուր պատչերը՞</string>
     <string name="expert_mode_universal_all_warning_message">Համընդհանուր պատչերը միասին չեն թեստավորվել: Բոլորը միաժամանակ ակտիվացնելը կարող է առաջացնել կոնֆլիկտներ, պատչավորման ձախողում կամ հավելվածի անկումներ</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">Աջակցվող վեբ հղումներն այժմ բացվում են ձեր բրաուզերում, այլ ոչ թե այս հավելվածում</string>
     <string name="app_links_enable_auto">Միացնել ավտոմատ կերպով</string>
     <string name="app_links_enable_auto_in_progress">Հղումների միացումն ընթացքի մեջ է...</string>
+    <string name="app_links_disable_all_in_progress">Հղումների անջատում...</string>
     <string name="app_links_open_settings">Բացել հղումների կարգավորումները</string>
     <string name="app_links_repair_success">Հավելվածի հղումները հաջողությամբ միացվեցին</string>
     <string name="app_links_repair_failed">Հավելվածի հղումները ավտոմատ կերպով միացնելը ձախողվեց</string>
+    <string name="app_links_disable_success">Հավելվածի հղումները անջատված են</string>
+    <string name="app_links_disable_failed">Հավելվածի հղումների անջատումը ձախողվեց</string>
     <string name="app_links_change_failed">Չհաջողվեց փոխել հավելվածի հղումները</string>
     <string name="app_links_all_verified">Բոլոր աջակցվող հղումները կարգավորված են բացվել այս հավելվածում</string>
     <string name="app_links_fix">Ուղղել հղումները</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">Ներառել</string>
     <string name="disable">Անջատել</string>
     <string name="enable">Միացնել</string>
+    <string name="enable_all">Միացնել բոլորը</string>
+    <string name="disable_all">Անջատել բոլորը</string>
     <string name="trust">Վստահել</string>
     <string name="loading">Բեռնվում է…</string>
     <string name="creating">Ստեղծվում է…</string>

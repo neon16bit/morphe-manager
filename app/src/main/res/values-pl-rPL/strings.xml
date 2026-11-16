@@ -347,8 +347,6 @@
     <string name="home_external_apk_expert_mode_required">Ta funkcja jest dostępna tylko w trybie eksperckim</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Szukaj modyfikacji</string>
-    <string name="expert_mode_disable_all">Wyłącz wszystkie</string>
-    <string name="expert_mode_enable_all">Włącz wszystkie</string>
     <string name="expert_mode_enable_all_universal_pending">Dotknij ponownie dla uniwersalnych modyfikacji</string>
     <string name="expert_mode_universal_all_warning_title">Włączyć wszystkie uniwersalne modyfikacje?</string>
     <string name="expert_mode_universal_all_warning_message">Uniwersalne modyfikacje nie są testowane razem. Włączenie ich wszystkich naraz może spowodować konflikty, niepowodzenie modyfikowania lub awarie</string>
@@ -568,9 +566,12 @@ Aby uzyskać najlepszy efekt, zalecamy zmodyfikowanie &lt;b&gt;pełnego pliku AP
     <string name="app_links_unverified_banner_description">Obsługiwane linki internetowe otwierają się obecnie w przeglądarce zamiast w tej aplikacji</string>
     <string name="app_links_enable_auto">Włącz automatycznie</string>
     <string name="app_links_enable_auto_in_progress">Włączanie linków…</string>
+    <string name="app_links_disable_all_in_progress">Wyłączanie linków…</string>
     <string name="app_links_open_settings">Otwórz ustawienia linków</string>
     <string name="app_links_repair_success">Pomyślnie włączono linki aplikacji</string>
     <string name="app_links_repair_failed">Nie udało się automatycznie włączyć linków aplikacji</string>
+    <string name="app_links_disable_success">Wyłączono linki aplikacji</string>
+    <string name="app_links_disable_failed">Nie udało się wyłączyć linków aplikacji</string>
     <string name="app_links_change_failed">Nie udało się zmienić linków aplikacji</string>
     <string name="app_links_all_verified">Wszystkie obsługiwane linki są skonfigurowane tak, aby otwierać się w tej aplikacji</string>
     <string name="app_links_fix">Napraw linki</string>
@@ -1416,6 +1417,8 @@ Wymagane są następujące wymiary obrazów:
     <string name="include">Uwzględnij</string>
     <string name="disable">Wyłącz</string>
     <string name="enable">Włącz</string>
+    <string name="enable_all">Włącz wszystkie</string>
+    <string name="disable_all">Wyłącz wszystkie</string>
     <string name="trust">Zaufaj</string>
     <string name="loading">Wczytywanie…</string>
     <string name="creating">Tworzenie…</string>

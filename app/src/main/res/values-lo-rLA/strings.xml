@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">ຟີເຈີນີ້ມີໃຫ້ພຽງແຕ່ໃນໂໝດຜູ້ຊ່ຽວຊານ</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">ຄົ້ນຫາຊຸດແພດ</string>
-    <string name="expert_mode_disable_all">ປິດທັງໝົດ</string>
-    <string name="expert_mode_enable_all">ເປີດທັງໝົດ</string>
     <string name="expert_mode_enable_all_universal_pending">ແຕະອີກຄັ້ງ ສຳລັບ universal patches</string>
     <string name="expert_mode_universal_all_warning_title">ເປີດໃຊ້ແພັດຊ໌ສາກົນທັງໝົດບໍ?</string>
     <string name="expert_mode_universal_all_warning_message">ແພັດຊ໌ສາກົນບໍ່ໄດ້ຖືກທົດສອບຮ່ວມກັນ. ການເປີດໃຊ້ທັງໝົດພ້ອມກັນອາດເຮັດໃຫ້ເກີດຄວາມຂັດແຍ່ງ, ການແພັດຊ໌ລົ້ມເຫຼວ ຫຼື ແອັບປິດໂຕເອງ</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">ລິ້ງເວັບທີ່ຮອງຮັບໃນປະຈຸບັນຈະເປີດໃນບຣາວເຊີຂອງທ່ານ ແທນທີ່ຈະເປັນແອັບນີ້</string>
     <string name="app_links_enable_auto">ເປີດໃຊ້ງານໂດຍອັດຕະໂນມັດ</string>
     <string name="app_links_enable_auto_in_progress">ກຳລັງເປີດໃຊ້ງານລິ້ງ…</string>
+    <string name="app_links_disable_all_in_progress">ກຳລັງປິດການໃຊ້ງານລິ້ງ…</string>
     <string name="app_links_open_settings">ເປີດການຕັ້ງຄ່າລິ້ງ</string>
     <string name="app_links_repair_success">ເປີດໃຊ້ງານລິ້ງແອັບສຳເລັດແລ້ວ</string>
     <string name="app_links_repair_failed">ບໍ່ສາມາດເປີດໃຊ້ງານລິ້ງແອັບໂດຍອັດຕະໂນມັດໄດ້</string>
+    <string name="app_links_disable_success">ປິດການໃຊ້ງານລິ້ງແອັບແລ້ວ</string>
+    <string name="app_links_disable_failed">ບໍ່ສາມາດປິດການໃຊ້ງານລິ້ງແອັບໄດ້</string>
     <string name="app_links_change_failed">ການປ່ຽນແປງລິ້ງແອັບຫຼົ້ມເຫຼວ</string>
     <string name="app_links_all_verified">ລິ້ງທີ່ຮອງຮັບທັງໝົດຖືກຕັ້ງຄ່າໃຫ້ເປີດໃນແອັບນີ້</string>
     <string name="app_links_fix">ແກ້ໄຂລິ້ງ</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">ລວມເຂົ້າ</string>
     <string name="disable">ປິດໃຊ້ງານ</string>
     <string name="enable">ເປີດໃຊ້ງານ</string>
+    <string name="enable_all">ເປີດໃຊ້ງານທັງໝົດ</string>
+    <string name="disable_all">ປິດທັງໝົດ</string>
     <string name="trust">ເຊື່ອໝັ້ນ</string>
     <string name="loading">ກຳລັງໂຫຼດ…</string>
     <string name="creating">ກຳລັງສ້າງ…</string>

@@ -346,8 +346,6 @@ Chọn nơi lấy tệp APK của nó"</string>
     <string name="home_external_apk_expert_mode_required">Tính năng này chỉ có ở chế độ Chuyên gia</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Tìm kiếm</string>
-    <string name="expert_mode_disable_all">Tắt tất cả</string>
-    <string name="expert_mode_enable_all">Bật tất cả</string>
     <string name="expert_mode_enable_all_universal_pending">Chạm lần nữa để dùng bản vá phổ quát</string>
     <string name="expert_mode_universal_all_warning_title">Bật tất cả các bản vá phổ quát?</string>
     <string name="expert_mode_universal_all_warning_message">Các bản vá phổ quát không được kiểm tra cùng nhau. Bật tất cả chúng cùng lúc có thể gây ra xung đột, vá thất bại hoặc treo máy</string>
@@ -567,9 +565,12 @@ Tốt nhất bạn nên chuyển sang &lt;b&gt;APK đầy đủ&lt;/b&gt; để 
     <string name="app_links_unverified_banner_description">Các liên kết web được hỗ trợ hiện đang mở trong trình duyệt của bạn thay vì trong ứng dụng này</string>
     <string name="app_links_enable_auto">Bật tự động</string>
     <string name="app_links_enable_auto_in_progress">Đang bật liên kết…</string>
+    <string name="app_links_disable_all_in_progress">Đang tắt các liên kết…</string>
     <string name="app_links_open_settings">Mở cài đặt liên kết</string>
     <string name="app_links_repair_success">Đã bật liên kết ứng dụng thành công</string>
     <string name="app_links_repair_failed">Không thể tự động bật liên kết ứng dụng</string>
+    <string name="app_links_disable_success">Đã tắt các liên kết ứng dụng</string>
+    <string name="app_links_disable_failed">Không thể tắt các liên kết ứng dụng</string>
     <string name="app_links_change_failed">Thay đổi liên kết ứng dụng thất bại</string>
     <string name="app_links_all_verified">Tất cả các liên kết được hỗ trợ đều được cấu hình để mở trong ứng dụng này</string>
     <string name="app_links_fix">Sửa liên kết</string>
@@ -1418,6 +1419,8 @@ Chi tiết: %2$s"</string>
     <string name="include">Bao gồm</string>
     <string name="disable">Tắt</string>
     <string name="enable">Không sợ</string>
+    <string name="enable_all">Bật tất cả</string>
+    <string name="disable_all">Tắt tất cả</string>
     <string name="trust">Tin cậy</string>
     <string name="loading">Đang tải…</string>
     <string name="creating">Đang tạo…</string>

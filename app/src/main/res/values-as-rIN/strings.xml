@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">এই বৈশিষ্ট্যটো কেৱল এক্সপাৰ্ট মোডত উপলব্ধ</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">পেচসমূহৰ বাবে সন্ধান কৰক</string>
-    <string name="expert_mode_disable_all">সকলো নিষ্ক্ৰিয় কৰক</string>
-    <string name="expert_mode_enable_all">সকলো সক্ৰিয় কৰক</string>
     <string name="expert_mode_enable_all_universal_pending">ইউনিভাৰ্চেল পেচৰ বাবে পুনৰ টেপ কৰক</string>
     <string name="expert_mode_universal_all_warning_title">সকলো সৰ্বজনীন পেচ সক্ৰিয় কৰিব নেকি?</string>
     <string name="expert_mode_universal_all_warning_message">ইউনিভাৰ্চেল পেচবোৰ একেলগে পৰীক্ষা কৰা হোৱা নাই। এই সকলোবোৰ একেলগে সক্ৰিয় কৰিলে সংঘাত, পেচিংত বিফলতা বা ক্ৰেশ হ\'ব পাৰে</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">সমৰ্থিত ৱেব লিংকসমূহ বৰ্তমান এই এপটোৰ পৰিৱৰ্তে আপোনাৰ ব্ৰাউজাৰত খোল</string>
     <string name="app_links_enable_auto">স্বয়ংক্ৰিয়ভাৱে সক্ৰিয় কৰক</string>
     <string name="app_links_enable_auto_in_progress">লিংকসমূহ সক্ৰিয় কৰা হৈছে…</string>
+    <string name="app_links_disable_all_in_progress">লিংকসমূহ নিষ্ক্ৰিয় কৰা হৈছে…</string>
     <string name="app_links_open_settings">লিংক ছেটিংখিনি খোলক</string>
     <string name="app_links_repair_success">এপ লিংকসমূহ সফলতাৰে সক্ৰিয় কৰা হৈছে</string>
     <string name="app_links_repair_failed">এপ লিংকসমূহ স্বয়ংক্ৰিয়ভাৱে সক্ৰিয় কৰাত ব্যৰ্থ হৈছে</string>
+    <string name="app_links_disable_success">এপ লিংকসমূহ নিষ্ক্ৰিয় কৰা হৈছে</string>
+    <string name="app_links_disable_failed">এপ লিংকসমূহ নিষ্ক্ৰিয় কৰাত ব্যৰ্থ হৈছে</string>
     <string name="app_links_change_failed">এপ লিংকসমূহ সলনি কৰাত ব্যৰ্থ হৈছে</string>
     <string name="app_links_all_verified">সমৰ্থিত সকলো লিংক এই এপটোত খোলাৰ বাবে কনফিগাৰ কৰা হৈছে</string>
     <string name="app_links_fix">লিংকসমূহ ঠিক কৰক</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">অন্তৰ্ভুক্ত কৰক</string>
     <string name="disable">নিষ্ক্ৰিয় কৰক</string>
     <string name="enable">সক্ৰিয় কৰক</string>
+    <string name="enable_all">সকলো সক্ৰিয় কৰক</string>
+    <string name="disable_all">সকলো নিষ্ক্ৰিয় কৰক</string>
     <string name="trust">বিশ্বাস কৰক</string>
     <string name="loading">লোডিং কৰিছে…</string>
     <string name="creating">সৃষ্টি কৰা হৈছে…</string>

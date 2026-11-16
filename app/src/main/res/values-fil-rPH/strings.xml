@@ -346,8 +346,6 @@ Pumili kung saan kukunin ang APK nito"</string>
     <string name="home_external_apk_expert_mode_required">Ang tampok na ito ay available lamang sa Expert mode</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Maghanap ng mga patch</string>
-    <string name="expert_mode_disable_all">Patayin lahat</string>
-    <string name="expert_mode_enable_all">Paganahin lahat</string>
     <string name="expert_mode_enable_all_universal_pending">I-tap muli para sa mga unibersal na patch</string>
     <string name="expert_mode_universal_all_warning_title">Paganahin ang lahat ng universal patches?</string>
     <string name="expert_mode_universal_all_warning_message">Ang mga universal patch ay hindi nasusubok nang sabay. Ang pag-enable ng lahat ng ito nang sabay ay maaaring magdulot ng mga salungatan, pagkabigo ng pag-patch, o pag-crash.</string>
@@ -567,9 +565,12 @@ Para sa pinakamahusay na resulta, nirerekomenda ng app na ito na i-patch ang isa
     <string name="app_links_unverified_banner_description">Ang mga sinusuportahang web link ay kasalukuyang bumubukas sa iyong browser sa halip na sa app na ito</string>
     <string name="app_links_enable_auto">I-enable nang awtomatiko</string>
     <string name="app_links_enable_auto_in_progress">Ini-enable ang mga link…</string>
+    <string name="app_links_disable_all_in_progress">Hindi pinapagana ang mga link…</string>
     <string name="app_links_open_settings">Buksan ang mga setting ng link</string>
     <string name="app_links_repair_success">Matagumpay na na-enable ang mga link ng app</string>
     <string name="app_links_repair_failed">Hindi nagawang paganahin ang mga link ng app nang awtomatiko</string>
+    <string name="app_links_disable_success">Hindi na pinapagana ang mga link ng app</string>
+    <string name="app_links_disable_failed">Nabigong hindi papaganahin ang mga link ng app</string>
     <string name="app_links_change_failed">Nabigong baguhin ang mga app link</string>
     <string name="app_links_all_verified">Lahat ng suportadong link ay naka-configure upang buksan sa app na ito</string>
     <string name="app_links_fix">Ayusin ang mga link</string>
@@ -1415,6 +1416,8 @@ Mga Detalye: %2$s"</string>
     <string name="include">Isama</string>
     <string name="disable">Patayin</string>
     <string name="enable">Paganahin</string>
+    <string name="enable_all">Paganahin lahat</string>
+    <string name="disable_all">Patayin lahat</string>
     <string name="trust">Magtiwala</string>
     <string name="loading">Naglo-load…</string>
     <string name="creating">Ginagawa…</string>

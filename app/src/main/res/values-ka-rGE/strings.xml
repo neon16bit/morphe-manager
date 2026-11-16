@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">ეს ფუნქცია ხელმისაწვდომია მხოლოდ ექსპერტის რეჟიმში</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">პატჩების ძებნა</string>
-    <string name="expert_mode_disable_all">გამორთეთ ყველა</string>
-    <string name="expert_mode_enable_all">ჩართეთ ყველა</string>
     <string name="expert_mode_enable_all_universal_pending">კვლავ დააჭირეთ უნივერსალური პატჩებისთვის</string>
     <string name="expert_mode_universal_all_warning_title">ყველა უნივერსალური პატჩის ჩართვა?</string>
     <string name="expert_mode_universal_all_warning_message">უნივერსალური პატჩები ერთად არ არის დატესტავებული. მათი ერთდროულად ჩართვამ შესაძლოა გამოიწვიოს კონფლიქტები, პატჩირების ჩაგდება ან აპლიკაციის გათიშვა</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">მხარდაჭერილი ვებ-ბმულები ამჟამად იხსნება თქვენს ბრაუზერში და არა ამ აპლიკაციაში</string>
     <string name="app_links_enable_auto">გააქტიურება ავტომატურად</string>
     <string name="app_links_enable_auto_in_progress">ბმულების გააქტიურება...</string>
+    <string name="app_links_disable_all_in_progress">ბმულების გათიშვა…</string>
     <string name="app_links_open_settings">ბმულების პარამეტრების გახსნა</string>
     <string name="app_links_repair_success">აპლიკაციის ბმულები წარმატებით გააქტიურდა</string>
     <string name="app_links_repair_failed">აპლიკაციის ბმულების ავტომატური გააქტიურება ვერ მოხერხდა</string>
+    <string name="app_links_disable_success">აპლიკაციის ბმულები გათიშულია</string>
+    <string name="app_links_disable_failed">აპლიკაციის ბმულების გათიშვა ვერ მოხერხდა</string>
     <string name="app_links_change_failed">აპლიკაციის ბმულების შეცვლამ ვერ იმუშავა</string>
     <string name="app_links_all_verified">ყველა მხარდაჭერი ბმული კონფიგურირებულია ამ აპლიკაციაში გასახსნელად</string>
     <string name="app_links_fix">ბმულების გასწორება</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">ჩართვა</string>
     <string name="disable">გამორთვა</string>
     <string name="enable">ჩართვა</string>
+    <string name="enable_all">ყველას ჩართვა</string>
+    <string name="disable_all">ყველას გამორთვა</string>
     <string name="trust">დანდობა</string>
     <string name="loading">იტვირთება…</string>
     <string name="creating">შექმნა…</string>

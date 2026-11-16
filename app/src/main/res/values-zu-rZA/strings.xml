@@ -346,8 +346,6 @@ Khetha ukuthi uthathe i-APK yayo kuphi"</string>
     <string name="home_external_apk_expert_mode_required">Le ncwaba itholakala kuphela kumode we-Expert</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Funa izigaba</string>
-    <string name="expert_mode_disable_all">Vala zonke</string>
-    <string name="expert_mode_enable_all">Vula zonke</string>
     <string name="expert_mode_enable_all_universal_pending">Thinta futhi ukuze uthole ama-patches onke</string>
     <string name="expert_mode_universal_all_warning_title">Vula wonke ama-patches universal?</string>
     <string name="expert_mode_universal_all_warning_message">Ama-patches universal awakuhloliswana. Ukuvula wonke ngasikhathi sinye kungabangela ukungahambisani, ukuhluleka kokufaka i-patch, noma ukuqhuma kwe-app</string>
@@ -567,9 +565,12 @@ Ukuze uthole imiphumela engcono kakhulu, lolu hlelo luhlanganisa ukulungisa i-&l
     <string name="app_links_unverified_banner_description">Izixhumanisi zewebhu ezisekelwe njengamanje zivulwa kubrowser yakho esikhundleni salolu hlelo</string>
     <string name="app_links_enable_auto">Vumela ngokuzenzakalelayo</string>
     <string name="app_links_enable_auto_in_progress">Kuvunyelwa izixhumanisi…</string>
+    <string name="app_links_disable_all_in_progress">Kukhubazwa amalinki…</string>
     <string name="app_links_open_settings">Vula izilungiselelo zezixhumanisi</string>
     <string name="app_links_repair_success">Izixhumanisi zehlelo zivunyelwe ngempumelelo</string>
     <string name="app_links_repair_failed">Kuhlulekile ukuvumela izixhumanisi zehlelo ngokuzenzakalelayo</string>
+    <string name="app_links_disable_success">Amalinki ohlelo akhubaziwe</string>
+    <string name="app_links_disable_failed">Kuhlulekile ukukhubaza amalinki ohlelo</string>
     <string name="app_links_change_failed">Kuhleleke ukushintsha ama-app links</string>
     <string name="app_links_all_verified">Zonke izixhumanisi ezisekelwe zilungiselelwe ukuvulwa kulolu hlelo</string>
     <string name="app_links_fix">Lungisa izixhumanisi</string>
@@ -1415,6 +1416,8 @@ Imininingwane: %2$s"</string>
     <string name="include">Faka</string>
     <string name="disable">Khutsaza</string>
     <string name="enable">Vula</string>
+    <string name="enable_all">Vula konke</string>
+    <string name="disable_all">Khubaza konke</string>
     <string name="trust">Thembela</string>
     <string name="loading">Kulayidwa…</string>
     <string name="creating">Kudalwa…</string>

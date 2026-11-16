@@ -347,8 +347,6 @@
     <string name="home_external_apk_expert_mode_required">ئەم تایبەتمەندیە تەنها لە مۆدی شارەزا بەردەستە</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">گەڕانی پینەکان</string>
-    <string name="expert_mode_disable_all">هەموو لە کاربخە</string>
-    <string name="expert_mode_enable_all">هەموو چالاک بکە</string>
     <string name="expert_mode_enable_all_universal_pending">دووبارە کلیک بکە بۆ پاتچەکانی گشتگیر</string>
     <string name="expert_mode_universal_all_warning_title">چالاککردنی هەموو پاتچە گشتگییەکان؟</string>
     <string name="expert_mode_universal_all_warning_message">پاتچە گشتگییەکان پێکەوە تاقی نەکراونەتەوە. چالاککردنی هەموویان بە یەکجار دەکرێت ببێتە هۆی دژایەتی، سەرنەکەوتنی پاتچکردن، یان داخستنی کتوپڕی ئەپەکە</string>
@@ -568,9 +566,12 @@
     <string name="app_links_unverified_banner_description">لینکەکانی وێبی پشتگیرکراو لە ئێستادا لە وێبگەڕەکەتدا دەکرێنەوە لەجیاتی ئەم ئەپە</string>
     <string name="app_links_enable_auto">چالاککردنی ئۆتۆماتیکی</string>
     <string name="app_links_enable_auto_in_progress">چالاککردنی لینکەکان...</string>
+    <string name="app_links_disable_all_in_progress">بەکارنەهێنانی لینکەکان...</string>
     <string name="app_links_open_settings">کردنەوەی ڕێکخستنەکانی لینک</string>
     <string name="app_links_repair_success">لینکەکانی ئەپ بە سەرکەوتوویی چالاککرا</string>
     <string name="app_links_repair_failed">چالاککردنی لینکەکانی ئەپ بە شێوەیەکی ئۆتۆماتیکی سەرکەوتوو نەبوو</string>
+    <string name="app_links_disable_success">لینکەکانی ئەپەکە بەکارنەهێنراون</string>
+    <string name="app_links_disable_failed">بەکارنەهێنانی لینکەکانی ئەپەکە سەرکەوتوو نەبوو</string>
     <string name="app_links_change_failed">گۆڕینی لینکەکانی ئەپەکە سەرکەوتوو نەبوو</string>
     <string name="app_links_all_verified">هەموو ئەو لینکانەی پشتگیرییان لێکراوە ڕێکخراون بۆ ئەوەی لەم ئەپەدا بکرێنەوە</string>
     <string name="app_links_fix">چاککردنی لینکەکان</string>
@@ -1416,6 +1417,8 @@ morphe_header_custom_dark.png
     <string name="include">بیناندن</string>
     <string name="disable">ناچالاککردن</string>
     <string name="enable">چالاککردن</string>
+    <string name="enable_all">هەموو چالاک بکە</string>
+    <string name="disable_all">هەموو لە کاربخە</string>
     <string name="trust">متمانە</string>
     <string name="loading">بارکردن…</string>
     <string name="creating">دروستکردن…</string>

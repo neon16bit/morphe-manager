@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">ይህ ባህሪ የሚገኘው በኤክስፐርት ሁነታ ላይ ብቻ ነው</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">ፓቾችን ፈልግ</string>
-    <string name="expert_mode_disable_all">ሁሉንም አጥፋ</string>
-    <string name="expert_mode_enable_all">ሁሉንም አብራ</string>
     <string name="expert_mode_enable_all_universal_pending">ለዩኒቨርሳል ፓቾች እንደገና ይጫኑ</string>
     <string name="expert_mode_universal_all_warning_title">ሁሉንም ዩኒቨርሳል ፓቾች ማብራት?</string>
     <string name="expert_mode_universal_all_warning_message">ዩኒቨርሳል ፓቾች አብረው አልተሞከሩም። ሁሉንም በአንድ ጊዜ ማብራት ግጭቶችን፣ የፓች ውድቀትን ወይም መተግበሪያው እንዲዘጋ ሊያደርግ ይችላል</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">የሚደገፉ የድረ-ገጽ ሊንኮች በአሁኑ ጊዜ ከዚህ መተግበሪያ ይልቅ በብሮውዘርዎ ውስጥ ይከፈታሉ</string>
     <string name="app_links_enable_auto">በራስ-ሰር አግብር</string>
     <string name="app_links_enable_auto_in_progress">ሊንኮች እየነቁ ነው…</string>
+    <string name="app_links_disable_all_in_progress">ሊንኮች እየተጠፉ ነው…</string>
     <string name="app_links_open_settings">የሊንክ ቅንብሮችን ክፈት</string>
     <string name="app_links_repair_success">የመተግበሪያ ሊንኮች በተሳካ ሁኔታ ነቅተዋል</string>
     <string name="app_links_repair_failed">የመተግበሪያ ሊንኮችን በራስ-ሰር ማንቃት አልተቻለም</string>
+    <string name="app_links_disable_success">የመተግበሪያ ሊንኮች ተጠፍተዋል</string>
+    <string name="app_links_disable_failed">የመተግበሪያ ሊንኮችን ለማጥፋት አልተቻለም</string>
     <string name="app_links_change_failed">የመተግበሪያ ሊንኮችን ለመለወጥ አልተቻለም</string>
     <string name="app_links_all_verified">ሁሉም የሚደገፉ ሊንኮች በዚህ መተግበሪያ ውስጥ እንዲከፈቱ ተዋቅረዋል</string>
     <string name="app_links_fix">ሊንኮችን አስተካክል</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">አካተት</string>
     <string name="disable">አግድ</string>
     <string name="enable">አብራ</string>
+    <string name="enable_all">ሁሉንም አግብር</string>
+    <string name="disable_all">ሁሉንም አግድ</string>
     <string name="trust">እመን</string>
     <string name="loading">በመጫን ላይ…</string>
     <string name="creating">በመፍጠር ላይ…</string>

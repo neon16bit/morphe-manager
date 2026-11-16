@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">תכונה זו זמינה רק במצב מומחה</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">חפש תיקונים</string>
-    <string name="expert_mode_disable_all">השבת את כולם</string>
-    <string name="expert_mode_enable_all">הפעל את כולם</string>
     <string name="expert_mode_enable_all_universal_pending">הקש שוב עבור תיקונים אוניברסליים</string>
     <string name="expert_mode_universal_all_warning_title">להפעיל את כל התיקונים האוניברסליים?</string>
     <string name="expert_mode_universal_all_warning_message">תיקונים אוניברסליים אינם נבדקים יחד. הפעלת כולם עלולה לגרום להתנגשויות, כשלים בתיקון או קריסות</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">קישורי אינטרנט נתמכים נפתחים כרגע בדפדפן שלך במקום באפליקציה זו</string>
     <string name="app_links_enable_auto">הפעל אוטומטית</string>
     <string name="app_links_enable_auto_in_progress">מפעיל קישורים…</string>
+    <string name="app_links_disable_all_in_progress">ביטול הפעלת קישורים…</string>
     <string name="app_links_open_settings">פתח הגדרות קישורים</string>
     <string name="app_links_repair_success">קישורי אפליקציה הופעלו בהצלחה</string>
     <string name="app_links_repair_failed">הפעלת קישורי אפליקציות באופן אוטומטי נכשלה</string>
+    <string name="app_links_disable_success">קישורי אפליקציה בוטלו</string>
+    <string name="app_links_disable_failed">ביטול הפעלת קישורי אפליקציה נכשל</string>
     <string name="app_links_change_failed">שינוי קישורי האפליקציה נכשל</string>
     <string name="app_links_all_verified">כל הקישורים הנתמכים מוגדרים להיפתח באפליקציה זו</string>
     <string name="app_links_fix">תקן קישורים</string>
@@ -1425,6 +1426,8 @@ drawable-xxhdpi: 387x144 פיקסלים
     <string name="include">כלול</string>
     <string name="disable">השבת</string>
     <string name="enable">הפעל</string>
+    <string name="enable_all">הפעל הכל</string>
+    <string name="disable_all">בטל הכל</string>
     <string name="trust">סמוך</string>
     <string name="loading">טוען…</string>
     <string name="creating">יוצר…</string>

@@ -346,8 +346,6 @@ Kies waar om die APK vandaan te kry"</string>
     <string name="home_external_apk_expert_mode_required">Hierdie funksie is slegs beskikbaar in Kenner-modus</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Soek veranderinge</string>
-    <string name="expert_mode_disable_all">Deaktiveer alles</string>
-    <string name="expert_mode_enable_all">Aktiveer alles</string>
     <string name="expert_mode_enable_all_universal_pending">Tik weer vir universele patches</string>
     <string name="expert_mode_universal_all_warning_title">Aktiveer alle universele patches?</string>
     <string name="expert_mode_universal_all_warning_message">Universele patches word nie saam getoets nie. Om almal gelyktydig te aktiveer kan konflikte, mislukte pleistering of crashes veroorsaak.</string>
@@ -567,9 +565,12 @@ Vir die beste resultate beveel hierdie app aan om 'n &lt;b&gt;volle APK&lt;/b&gt
     <string name="app_links_unverified_banner_description">Ondersteunde webskakels open tans in jou blaaier in plaas van hierdie toepassing</string>
     <string name="app_links_enable_auto">Aktiveer outomaties</string>
     <string name="app_links_enable_auto_in_progress">Skakels word geaktiveer…</string>
+    <string name="app_links_disable_all_in_progress">Deaktiveer skakels…</string>
     <string name="app_links_open_settings">Maak skakelinstellings oop</string>
     <string name="app_links_repair_success">Toepskakels is suksesvol geaktiveer</string>
     <string name="app_links_repair_failed">Kon nie toepskakels outomaties aktiveer nie</string>
+    <string name="app_links_disable_success">Toepassingskakels gedeaktiveer</string>
+    <string name="app_links_disable_failed">Kon nie toepassingskakels deaktiveer nie</string>
     <string name="app_links_change_failed">Dit was nie moontlik om toepassing-skakels te verander nie</string>
     <string name="app_links_all_verified">Alle ondersteunde skakels is ingestel om in hierdie toepassing oop te maak</string>
     <string name="app_links_fix">Herstel skakels</string>
@@ -1415,6 +1416,8 @@ Besonderhede: %2$s"</string>
     <string name="include">Insluit</string>
     <string name="disable">Deaktiveer</string>
     <string name="enable">Aktiveer</string>
+    <string name="enable_all">Aktiveer alles</string>
+    <string name="disable_all">Skakel alles uit</string>
     <string name="trust">Vertrou</string>
     <string name="loading">Laai…</string>
     <string name="creating">Word geskep…</string>

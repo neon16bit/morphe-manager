@@ -346,8 +346,6 @@ APK-nı haradan götürəcəyinizi seçin"</string>
     <string name="home_external_apk_expert_mode_required">Bu xüsusiyyət yalnız mütəxəssis rejimində əlçatandır</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Yamaqları axtar</string>
-    <string name="expert_mode_disable_all">Hamısını qapa</string>
-    <string name="expert_mode_enable_all">Hamısını aktivləşdir</string>
     <string name="expert_mode_enable_all_universal_pending">Ümumi yamaqlar üçün təkrar toxun</string>
     <string name="expert_mode_universal_all_warning_title">Bütün ümumi yamaqlar aktivləşdirilsin?</string>
     <string name="expert_mode_universal_all_warning_message">Ümumi yamaqlar birlikdə sınaqdan keçirilməyib. Hamısını eyni anda aktivləşdirmək ziddiyyətlərə, yamaqlamanın uğursuz olmasına və ya çökmələrə səbəb ola bilər</string>
@@ -1414,6 +1412,8 @@ Təfərrüatlar: %2$s"</string>
     <string name="include">Daxil et</string>
     <string name="disable">Bağla</string>
     <string name="enable">Aktivləşdir</string>
+    <string name="enable_all">Hamısını aktivləşdir</string>
+    <string name="disable_all">Hamısını qapa</string>
     <string name="trust">Etibar et</string>
     <string name="loading">Yüklənilir…</string>
     <string name="creating">Yaradılır…</string>

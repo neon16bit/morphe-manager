@@ -346,8 +346,6 @@ Choisissez d'où provient son APK"</string>
     <string name="home_external_apk_expert_mode_required">Cette fonctionnalité est uniquement disponible en mode Expert</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Rechercher des patchs</string>
-    <string name="expert_mode_disable_all">Tout désactiver</string>
-    <string name="expert_mode_enable_all">Tout activer</string>
     <string name="expert_mode_enable_all_universal_pending">Appuyez à nouveau pour les patchs universels</string>
     <string name="expert_mode_universal_all_warning_title">Activer tous les patchs universels ?</string>
     <string name="expert_mode_universal_all_warning_message">Les patchs universels ne sont pas testés ensemble. Les activer tous en même temps peut entraîner des conflits, un échec du patching ou des plantages</string>
@@ -568,9 +566,12 @@ Restaurer remet la version patchée. Désactive les mises à jour automatiques p
     <string name="app_links_unverified_banner_description">Les liens web pris en charge s\'ouvrent actuellement dans votre navigateur au lieu de cette application</string>
     <string name="app_links_enable_auto">Activer automatiquement</string>
     <string name="app_links_enable_auto_in_progress">Activation des liens…</string>
+    <string name="app_links_disable_all_in_progress">Désactivation des liens…</string>
     <string name="app_links_open_settings">Ouvrir les paramètres des liens</string>
     <string name="app_links_repair_success">Liens d\'application activés avec succès</string>
     <string name="app_links_repair_failed">Échec de l\'activation automatique des liens d\'application</string>
+    <string name="app_links_disable_success">Liens de l\'application désactivés</string>
+    <string name="app_links_disable_failed">Échec de la désactivation des liens de l\'application</string>
     <string name="app_links_change_failed">Échec du changement des liens de l\'application</string>
     <string name="app_links_all_verified">Tous les liens pris en charge sont configurés pour s\'ouvrir dans cette application</string>
     <string name="app_links_fix">Corriger les liens</string>
@@ -1419,6 +1420,8 @@ Détails : %2$s"</string>
     <string name="include">Inclure</string>
     <string name="disable">Désactiver</string>
     <string name="enable">Activer</string>
+    <string name="enable_all">Tout activer</string>
+    <string name="disable_all">Tout désactiver</string>
     <string name="trust">Faire confiance</string>
     <string name="loading">Chargement…</string>
     <string name="creating">Création…</string>

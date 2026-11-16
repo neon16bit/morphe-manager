@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">हे वैशिष्ट्य फक्त तज्ञ मोडमध्ये उपलब्ध आहे</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">पॅच शोधा</string>
-    <string name="expert_mode_disable_all">सर्व अक्षम करा</string>
-    <string name="expert_mode_enable_all">सर्व सक्षम करा</string>
     <string name="expert_mode_enable_all_universal_pending">सार्वत्रिक पॅचेससाठी पुन्हा टॅप करा</string>
     <string name="expert_mode_universal_all_warning_title">सर्व सार्वत्रिक पॅच सक्षम करायचे?</string>
     <string name="expert_mode_universal_all_warning_message">सार्वत्रिक पॅच एकत्र तपासले गेले नाहीत. त्या सर्वांना एकाच वेळी सक्षम केल्याने संघर्ष, अयशस्वी पॅचिंग किंवा क्रॅश होऊ शकतात.</string>
@@ -566,9 +564,12 @@
     <string name="app_links_unverified_banner_description">समर्थित वेब लिंक सध्या या अॅपऐवजी तुमच्या ब्राउझरमध्ये उघडतात</string>
     <string name="app_links_enable_auto">आपोआप सक्षम करा</string>
     <string name="app_links_enable_auto_in_progress">लिंक सक्षम करत आहे…</string>
+    <string name="app_links_disable_all_in_progress">लिंक्स अक्षम करत आहे…</string>
     <string name="app_links_open_settings">लिंक सेटिंग्ज उघडा</string>
     <string name="app_links_repair_success">अॅप लिंक यशस्वीरित्या सक्षम केल्या</string>
     <string name="app_links_repair_failed">अॅप लिंक आपोआप सक्षम करण्यात अपयश</string>
+    <string name="app_links_disable_success">अॅप लिंक्स अक्षम केल्या</string>
+    <string name="app_links_disable_failed">अॅप लिंक्स अक्षम करण्यात अपयश</string>
     <string name="app_links_change_failed">ॲप लिंक्स बदलण्यात अयशस्वी</string>
     <string name="app_links_all_verified">सर्व समर्थित लिंक या अॅपमध्ये उघडण्यासाठी कॉन्फिगर केल्या आहेत</string>
     <string name="app_links_fix">लिंक दुरुस्त करा</string>
@@ -1414,6 +1415,8 @@ morphe_header_custom_dark.png
     <string name="include">समाविष्ट करा</string>
     <string name="disable">डिसेबल करा</string>
     <string name="enable">इनेबल करा</string>
+    <string name="enable_all">सर्व सक्षम करा</string>
+    <string name="disable_all">सर्व अक्षम करा</string>
     <string name="trust">विश्वास ठेवा</string>
     <string name="loading">लोड होत आहे…</string>
     <string name="creating">तयार करत आहे…</string>

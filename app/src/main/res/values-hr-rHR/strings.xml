@@ -348,8 +348,6 @@ Odaberite odakle ćete preuzeti APK datoteku"</string>
     <string name="home_external_apk_expert_mode_required">Ova je značajka dostupna samo u načinu rada za stručnjake</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Pretraživanje patcheva</string>
-    <string name="expert_mode_disable_all">Onemogući sve</string>
-    <string name="expert_mode_enable_all">Omogući sve</string>
     <string name="expert_mode_enable_all_universal_pending">Dodirnite ponovno za univerzalne patcheve</string>
     <string name="expert_mode_universal_all_warning_title">Omogućiti sve univerzalne patcheve?</string>
     <string name="expert_mode_universal_all_warning_message">Univerzalni patchevi se ne testiraju zajedno. Omogućavanje svih odjednom može uzrokovati sukobe, neuspješno instaliranje patchanje ili rušenje</string>
@@ -570,9 +568,12 @@ Za najbolje rezultate,  patchanje ove aplikacija preporučuje &lt;b&gt;cijeli AP
     <string name="app_links_unverified_banner_description">Podržane web poveznice trenutačno se otvaraju u vašem pregledniku umjesto u ovoj aplikaciji</string>
     <string name="app_links_enable_auto">Omogući automatski</string>
     <string name="app_links_enable_auto_in_progress">Omogućavanje poveznica…</string>
+    <string name="app_links_disable_all_in_progress">Onemogućivanje poveznica…</string>
     <string name="app_links_open_settings">Otvori postavke poveznica</string>
     <string name="app_links_repair_success">Poveznice aplikacije uspješno su omogućene</string>
     <string name="app_links_repair_failed">Nije uspjelo automatsko omogućavanje aplikacijskih poveznica</string>
+    <string name="app_links_disable_success">Poveznice aplikacije su onemogućene</string>
+    <string name="app_links_disable_failed">Nije moguće onemogućiti poveznice aplikacije</string>
     <string name="app_links_change_failed">Promjena poveznica aplikacije nije uspjela</string>
     <string name="app_links_all_verified">Sve podržane poveznice konfigurirane su za otvaranje u ovoj aplikaciji</string>
     <string name="app_links_fix">Popravi poveznice</string>
@@ -1418,6 +1419,8 @@ Detalji: %2$s"</string>
     <string name="include">Uključi</string>
     <string name="disable">Onemogući</string>
     <string name="enable">Omogući</string>
+    <string name="enable_all">Omogući sve</string>
+    <string name="disable_all">Onemogući sve</string>
     <string name="trust">Vjeruj</string>
     <string name="loading">Samo trenutak…</string>
     <string name="creating">Izrada…</string>

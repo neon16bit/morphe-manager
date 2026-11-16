@@ -346,8 +346,6 @@ Aukeratu non hartu APK-a"</string>
     <string name="home_external_apk_expert_mode_required">Ezaugarri hau Aditu moduan soilik dago eskuragarri</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Bilatu patchak</string>
-    <string name="expert_mode_disable_all">Desaktibu dena</string>
-    <string name="expert_mode_enable_all">Aktibu dena</string>
     <string name="expert_mode_enable_all_universal_pending">Sakatu berriro patch universalentzat</string>
     <string name="expert_mode_universal_all_warning_title">Universal patch guztiak aktibatzea?</string>
     <string name="expert_mode_universal_all_warning_message">Universal patch-ak ez dira elkarrekin probatu. Guztiak batera aktibatzeak gatazkak, patchatze hutsegiteak edo crash-ak eragin ditzake</string>
@@ -567,9 +565,12 @@ Emaitza onenak lortzeko, aplikazio honek &lt;b&gt;APK osoa&lt;/b&gt; patchatzea 
     <string name="app_links_unverified_banner_description">Onartutako web estekak zure nabigatzailean irekitzen dira gaur egun, aplikazio honen ordez</string>
     <string name="app_links_enable_auto">Gaitu automatikoki</string>
     <string name="app_links_enable_auto_in_progress">Estekak gaitzen ari dira…</string>
+    <string name="app_links_disable_all_in_progress">Estekak desaktibatzen...</string>
     <string name="app_links_open_settings">Ireki esteken konfigurazioa</string>
     <string name="app_links_repair_success">Aplikazio-estekak arrakastaz gaitu dira</string>
     <string name="app_links_repair_failed">Aplikazio-estekak automatikoki gaitzea huts egin du</string>
+    <string name="app_links_disable_success">Aplikazio-estekak desaktibatuta</string>
+    <string name="app_links_disable_failed">Aplikazio-estekak desaktibatzea huts egin du</string>
     <string name="app_links_change_failed">App-estekak aldatzea huts egin da</string>
     <string name="app_links_all_verified">Onartutako esteka guztiak aplikazio honetan irekitzeko konfiguratuta daude</string>
     <string name="app_links_fix">Konpondu estekak</string>
@@ -1415,6 +1416,8 @@ Xehetasunak: %2$s"</string>
     <string name="include">Sartu</string>
     <string name="disable">Desaktibu</string>
     <string name="enable">Aktibu</string>
+    <string name="enable_all">Gaitzen dena guztia</string>
+    <string name="disable_all">Denak desgaitu</string>
     <string name="trust">Konfiantza</string>
     <string name="loading">Kargatzen…</string>
     <string name="creating">Sortzen…</string>

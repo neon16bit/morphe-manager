@@ -346,8 +346,6 @@ Elige de dónde tomar su APK"</string>
     <string name="home_external_apk_expert_mode_required">Esta función solo está disponible en el modo Experto</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Buscar parches</string>
-    <string name="expert_mode_disable_all">Desactivar todo</string>
-    <string name="expert_mode_enable_all">Activar todo</string>
     <string name="expert_mode_enable_all_universal_pending">Pulsa de nuevo para ver parches universales</string>
     <string name="expert_mode_universal_all_warning_title">¿Activar todos los parches universales?</string>
     <string name="expert_mode_universal_all_warning_message">Los parches universales no se prueban en conjunto. Activarlos todos a la vez puede provocar conflictos, fallos en el parcheo o cierres inesperados</string>
@@ -567,9 +565,12 @@ Para un mejor resultado, esta aplicación te recomienda parchear un &lt;b&gt;APK
     <string name="app_links_unverified_banner_description">Los enlaces web compatibles se abren actualmente en tu navegador en lugar de en esta aplicación</string>
     <string name="app_links_enable_auto">Activar automáticamente</string>
     <string name="app_links_enable_auto_in_progress">Activando enlaces…</string>
+    <string name="app_links_disable_all_in_progress">Desactivando enlaces…</string>
     <string name="app_links_open_settings">Abrir ajustes de enlaces</string>
     <string name="app_links_repair_success">Enlaces de aplicaciones activados correctamente</string>
     <string name="app_links_repair_failed">Error al activar automáticamente los enlaces de aplicaciones</string>
+    <string name="app_links_disable_success">Enlaces de la aplicación desactivados</string>
+    <string name="app_links_disable_failed">Error al desactivar los enlaces de la aplicación</string>
     <string name="app_links_change_failed">Error al cambiar los enlaces de la aplicación</string>
     <string name="app_links_all_verified">Todos los enlaces compatibles están configurados para abrirse en esta aplicación</string>
     <string name="app_links_fix">Corregir enlaces</string>
@@ -1415,6 +1416,8 @@ Detalles: %2$s"</string>
     <string name="include">Incluir</string>
     <string name="disable">Desactivar</string>
     <string name="enable">Activar</string>
+    <string name="enable_all">Activar todo</string>
+    <string name="disable_all">Desactivar todo</string>
     <string name="trust">Confiar</string>
     <string name="loading">Cargando…</string>
     <string name="creating">Creando…</string>

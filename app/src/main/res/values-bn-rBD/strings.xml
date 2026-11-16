@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">এই বৈশিষ্ট্যটি শুধুমাত্র বিশেষজ্ঞ মোডে উপলব্ধ</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">প্যাচ খুঁজুন</string>
-    <string name="expert_mode_disable_all">সবকিছু নিষ্ক্রিয় করুন</string>
-    <string name="expert_mode_enable_all">সবকিছু সক্রিয় করুন</string>
     <string name="expert_mode_enable_all_universal_pending">সর্বজনীন প্যাচের জন্য আবার ট্যাপ করুন</string>
     <string name="expert_mode_universal_all_warning_title">সব ইউনিভার্সাল প্যাচ সক্রিয় করবেন?</string>
     <string name="expert_mode_universal_all_warning_message">ইউনিভার্সাল প্যাচগুলো একসাথে পরীক্ষা করা হয়নি। একসাথে সব সক্রিয় করলে সংঘর্ষ, ব্যর্থ প্যাচ, বা ক্র্যাশ হতে পারে।</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">সমর্থিত ওয়েব লিঙ্কগুলি বর্তমানে এই অ্যাপের পরিবর্তে আপনার ব্রাউজারে খোলে</string>
     <string name="app_links_enable_auto">স্বয়ংক্রিয়ভাবে সক্রিয় করুন</string>
     <string name="app_links_enable_auto_in_progress">লিঙ্ক সক্রিয় করা হচ্ছে…</string>
+    <string name="app_links_disable_all_in_progress">লিঙ্কগুলো নিষ্ক্রিয় করা হচ্ছে…</string>
     <string name="app_links_open_settings">লিঙ্ক সেটিংস খুলুন</string>
     <string name="app_links_repair_success">অ্যাপ লিঙ্ক সফলভাবে সক্রিয় করা হয়েছে</string>
     <string name="app_links_repair_failed">অ্যাপ লিংক স্বয়ংক্রিয়ভাবে সক্রিয় করা যায়নি</string>
+    <string name="app_links_disable_success">অ্যাপ লিঙ্কগুলো নিষ্ক্রিয় করা হয়েছে</string>
+    <string name="app_links_disable_failed">অ্যাপ লিঙ্কগুলো নিষ্ক্রিয় করতে ব্যর্থ হয়েছে</string>
     <string name="app_links_change_failed">অ্যাপ লিঙ্ক পরিবর্তন করতে ব্যর্থ হয়েছে</string>
     <string name="app_links_all_verified">সকল সমর্থিত লিংক এই অ্যাপে খোলার জন্য কনফিগার করা হয়েছে</string>
     <string name="app_links_fix">লিংক ঠিক করুন</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">অন্তর্ভুক্ত করুন</string>
     <string name="disable">নিষ্ক্রিয় করুন</string>
     <string name="enable">সক্রিয় করুন</string>
+    <string name="enable_all">সবকিছু সক্রিয় করুন</string>
+    <string name="disable_all">সবকিছু নিষ্ক্রিয় করুন</string>
     <string name="trust">বিশ্বাস করুন</string>
     <string name="loading">লোড হচ্ছে…</string>
     <string name="creating">তৈরি করা হচ্ছে…</string>

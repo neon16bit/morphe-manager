@@ -346,8 +346,6 @@ Wähle aus, woher die APK bezogen werden soll"</string>
     <string name="home_external_apk_expert_mode_required">Diese Funktion ist nur im Expertenmodus verfügbar</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Suche nach Patches</string>
-    <string name="expert_mode_disable_all">Alle deaktivieren</string>
-    <string name="expert_mode_enable_all">Alle aktivieren</string>
     <string name="expert_mode_enable_all_universal_pending">Erneut tippen für universelle Patches</string>
     <string name="expert_mode_universal_all_warning_title">Alle universellen Patches aktivieren?</string>
     <string name="expert_mode_universal_all_warning_message">Universelle Patches werden nicht gemeinsam getestet. Wenn sie alle auf einmal aktiviert werden, kann dies zu Konflikten, fehlgeschlagenen Patches oder Abstürzen führen.</string>
@@ -567,9 +565,12 @@ Für optimale Ergebnisse empfiehlt diese App, eine &lt;b&gt;vollständige APK&lt
     <string name="app_links_unverified_banner_description">Unterstützte Weblinks werden derzeit in deinem Browser geöffnet, anstatt in dieser App</string>
     <string name="app_links_enable_auto">Automatisch aktivieren</string>
     <string name="app_links_enable_auto_in_progress">Links werden aktiviert…</string>
+    <string name="app_links_disable_all_in_progress">Links werden deaktiviert…</string>
     <string name="app_links_open_settings">Link-Einstellungen öffnen</string>
     <string name="app_links_repair_success">App-Links erfolgreich aktiviert</string>
     <string name="app_links_repair_failed">Automatisches Aktivieren von App-Links fehlgeschlagen</string>
+    <string name="app_links_disable_success">App-Links deaktiviert</string>
+    <string name="app_links_disable_failed">App-Links konnten nicht deaktiviert werden</string>
     <string name="app_links_change_failed">App-Links konnten nicht geändert werden</string>
     <string name="app_links_all_verified">Alle unterstützten Links sind so konfiguriert, dass sie in dieser App geöffnet werden</string>
     <string name="app_links_fix">Links reparieren</string>
@@ -1416,6 +1417,8 @@ Details: %2$s"</string>
     <string name="include">Einschließen</string>
     <string name="disable">Deaktivieren</string>
     <string name="enable">Aktivieren</string>
+    <string name="enable_all">Alle aktivieren</string>
+    <string name="disable_all">Alle deaktivieren</string>
     <string name="trust">Vertrauen</string>
     <string name="loading">Lädt…</string>
     <string name="creating">Wird erstellt…</string>

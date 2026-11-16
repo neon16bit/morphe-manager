@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">此功能仅在专家模式下可用</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">搜索补丁</string>
-    <string name="expert_mode_disable_all">禁用所有</string>
-    <string name="expert_mode_enable_all">启用所有</string>
     <string name="expert_mode_enable_all_universal_pending">再次点按以启用通用补丁</string>
     <string name="expert_mode_universal_all_warning_title">启用所有通用补丁？</string>
     <string name="expert_mode_universal_all_warning_message">通用补丁未经全面测试。同时启用可能导致冲突、补丁失败或崩溃。</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">受支持的网页链接目前会在您的浏览器中打开，而不是在此应用中打开</string>
     <string name="app_links_enable_auto">自动启用</string>
     <string name="app_links_enable_auto_in_progress">正在启用链接……</string>
+    <string name="app_links_disable_all_in_progress">正在禁用链接……</string>
     <string name="app_links_open_settings">打开链接设置</string>
     <string name="app_links_repair_success">应用链接已成功启用</string>
     <string name="app_links_repair_failed">自动启用应用链接失败</string>
+    <string name="app_links_disable_success">应用链接已禁用</string>
+    <string name="app_links_disable_failed">禁用应用链接失败</string>
     <string name="app_links_change_failed">更改应用链接失败</string>
     <string name="app_links_all_verified">所有受支持的链接均已配置为在此应用中打开</string>
     <string name="app_links_fix">修复链接</string>
@@ -1227,7 +1228,7 @@ morphe_header_custom_dark.png
     <string name="settings_system_storage_management_title">存储管理</string>
     <string name="settings_system_storage_management_description">显示磁盘使用情况并清除缓存文件</string>
     <!-- Shown under how much Morphe takes up. "%1$s" is the space still available on the device, already formatted with its unit. "Free" as in unused, not as in free of charge. -->
-    <string name="settings_system_storage_free">%1$s 免费空间</string>
+    <string name="settings_system_storage_free">%1$s 可用空间</string>
     <string name="settings_system_storage_saved_apks">保存的 APK</string>
     <string name="settings_system_storage_caches">缓存</string>
     <string name="settings_system_storage_keystore_title">签名密钥库</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">包括</string>
     <string name="disable">禁用</string>
     <string name="enable">启用</string>
+    <string name="enable_all">全部启用</string>
+    <string name="disable_all">全部禁用</string>
     <string name="trust">信任</string>
     <string name="loading">正在加载…</string>
     <string name="creating">创建中…</string>

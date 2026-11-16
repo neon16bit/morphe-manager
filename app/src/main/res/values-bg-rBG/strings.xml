@@ -349,8 +349,6 @@
     <string name="home_external_apk_expert_mode_required">Тази функция е достъпна само в експертен режим</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Търсене на пачове</string>
-    <string name="expert_mode_disable_all">Изключи всички</string>
-    <string name="expert_mode_enable_all">Включи всички</string>
     <string name="expert_mode_enable_all_universal_pending">Докоснете отново за универсални кръпки</string>
     <string name="expert_mode_universal_all_warning_title">Активиране на всички универсални пачове ли?</string>
     <string name="expert_mode_universal_all_warning_message">Универсалните пачове не са тествани заедно. Активирането на всички наведнъж може да причини конфликти, неуспешно пачване или сривове.</string>
@@ -570,9 +568,12 @@
     <string name="app_links_unverified_banner_description">Поддържаните уеб връзки в момента се отварят в браузъра вместо в това приложение</string>
     <string name="app_links_enable_auto">Автоматично активиране</string>
     <string name="app_links_enable_auto_in_progress">Активиране на връзките…</string>
+    <string name="app_links_disable_all_in_progress">Деактивиране на връзките…</string>
     <string name="app_links_open_settings">Отваряне на настройките за връзки</string>
     <string name="app_links_repair_success">Връзките към приложението са активирани успешно</string>
     <string name="app_links_repair_failed">Неуспешно автоматично активиране на връзките на приложението</string>
+    <string name="app_links_disable_success">Връзките на приложението са деактивирани</string>
+    <string name="app_links_disable_failed">Неуспешно деактивиране на връзките на приложението</string>
     <string name="app_links_change_failed">Неуспешна промяна на връзките на приложението</string>
     <string name="app_links_all_verified">Всички поддържани връзки са конфигурирани да се отварят в това приложение</string>
     <string name="app_links_fix">Поправи връзките</string>
@@ -909,7 +910,7 @@
     <!-- How far Morphe keeps itself and its patch sources up to date when it opens. A pull to refresh always checks -->
     <string name="settings_auto_updates">Автоматични актуализации</string>
     <string name="settings_auto_updates_description">Какво прави Morphe относно актуализациите при отваряне. „Дръпни за опресняване“ винаги проверява</string>
-    <string name="settings_auto_updates_download">Изтегляне автоматично</string>
+    <string name="settings_auto_updates_download">Автоматично изтегляне </string>
     <string name="settings_auto_updates_download_description">Проверява за актуализации, когато Morphe се отваря, и изтегля актуализации на пачовете във всяка мрежа</string>
     <string name="settings_auto_updates_wifi_only">Изтегляне само през Wi-Fi</string>
     <string name="settings_auto_updates_wifi_only_description">При мобилни данни се проверява и показва само какво е налично</string>
@@ -1418,6 +1419,8 @@ morphe_header_custom_dark.png
     <string name="include">Включване</string>
     <string name="disable">Деактивирай</string>
     <string name="enable">Активирай</string>
+    <string name="enable_all">Активиране на всички</string>
+    <string name="disable_all">Изключи всички</string>
     <string name="trust">Доверям се</string>
     <string name="loading">Зареждане…</string>
     <string name="creating">Създаване…</string>

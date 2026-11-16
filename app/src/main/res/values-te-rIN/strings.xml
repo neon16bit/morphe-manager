@@ -55,6 +55,7 @@
     <!-- Home Screen - Home Greetings -->
     <!-- Humorous hype message with light nostalgia -->
     <!-- "Buckle up" referring to fastening your vehicle seat belt. A light-hearted joke to build excitement -->
+    <string name="home_greeting_3">సిద్ధమవ్వండి, ఇది ప్యాచ్ చేసే వేళ</string>
     <!-- Sarcastic joke about blocking ads, intentionally over-the-top -->
     <!-- "Watch ads" refers to watching video ads in unpatched apps -->
     <!-- Friendly, slightly mischievous joke about controlling app behavior -->
@@ -65,6 +66,7 @@
     <!-- Morning greetings (5:00–11:59) -->
     <!-- Afternoon greetings (12:00–16:59) -->
     <!-- Evening greetings (17:00–21:59) -->
+    <string name="home_greeting_evening_1">శుభ సాయంకాలం! సాయంకాలంలో ప్యాచులే వేరు</string>
     <!-- Late night greetings (22:00–23:59) -->
     <!-- Super late night greetings (0:00–4:59) -->
     <!-- Halloween greetings, shown instead of the ones above around October 31 -->

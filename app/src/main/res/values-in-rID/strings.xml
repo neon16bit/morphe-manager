@@ -346,8 +346,6 @@ Pilih dari mana Anda ingin mengambil APK-nya"</string>
     <string name="home_external_apk_expert_mode_required">Fitur ini hanya tersedia dalam Mode Ahli</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Cari tambalan</string>
-    <string name="expert_mode_disable_all">Nonaktifkan semua</string>
-    <string name="expert_mode_enable_all">Aktifkan semua</string>
     <string name="expert_mode_enable_all_universal_pending">Ketuk lagi untuk tambalan universal</string>
     <string name="expert_mode_universal_all_warning_title">Aktifkan semua tambalan universal?</string>
     <string name="expert_mode_universal_all_warning_message">Tambalan universal tidak diuji secara bersamaan. Mengaktifkan semuanya sekaligus dapat menyebabkan konflik, kegagalan dalam penambalan, atau crash</string>
@@ -567,9 +565,12 @@ Untuk hasil terbaik, aplikasi ini merekomendasikan untuk menambal &lt;b&gt;APK l
     <string name="app_links_unverified_banner_description">Tautan web yang didukung saat ini terbuka di browser Anda, bukan di aplikasi ini</string>
     <string name="app_links_enable_auto">Aktifkan otomatis</string>
     <string name="app_links_enable_auto_in_progress">Mengaktifkan tautan…</string>
+    <string name="app_links_disable_all_in_progress">Menonaktifkan tautan…</string>
     <string name="app_links_open_settings">Buka pengaturan tautan</string>
     <string name="app_links_repair_success">Tautan aplikasi berhasil diaktifkan</string>
     <string name="app_links_repair_failed">Gagal mengaktifkan tautan aplikasi secara otomatis</string>
+    <string name="app_links_disable_success">Tautan aplikasi dinonaktifkan</string>
+    <string name="app_links_disable_failed">Gagal menonaktifkan tautan aplikasi</string>
     <string name="app_links_change_failed">Gagal mengubah tautan aplikasi</string>
     <string name="app_links_all_verified">Semua tautan yang didukung dikonfigurasi untuk dibuka di aplikasi ini</string>
     <string name="app_links_fix">Perbaiki tautan</string>
@@ -1415,6 +1416,8 @@ Rincian: %2$s"</string>
     <string name="include">Termasuk</string>
     <string name="disable">Nonaktifkan</string>
     <string name="enable">Aktifkan</string>
+    <string name="enable_all">Aktifkan semua</string>
+    <string name="disable_all">Nonaktifkan semua</string>
     <string name="trust">Percayai</string>
     <string name="loading">Memuat…</string>
     <string name="creating">Membuat…</string>

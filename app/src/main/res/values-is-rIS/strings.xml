@@ -346,8 +346,6 @@ Veldu hvaðan á að sækja APK-skrána"</string>
     <string name="home_external_apk_expert_mode_required">Þessi eiginleiki er eingöngu fáanlegur í sérfræðiham</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Leita breytistillinga</string>
-    <string name="expert_mode_disable_all">Gerðu allt óvirkt</string>
-    <string name="expert_mode_enable_all">Gerðu allt virkt</string>
     <string name="expert_mode_enable_all_universal_pending">Ýttu aftur til að velja alhliða plástra</string>
     <string name="expert_mode_universal_all_warning_title">Virkja alla alhliða plástra?</string>
     <string name="expert_mode_universal_all_warning_message">Alhliða plástrar eru ekki prófaðir saman. Að virkja alla í einu getur valdið árekstrum, mistekinni plástrun eða hruni.</string>
@@ -566,9 +564,12 @@ Til að ná bestum árangri mælir þetta app með því að breyta &lt;b&gt;hei
     <string name="app_links_unverified_banner_description">Studdir veftenglar opnast nú í vafranum þínum í staðinn fyrir þetta forrit</string>
     <string name="app_links_enable_auto">Virkja sjálfkrafa</string>
     <string name="app_links_enable_auto_in_progress">Virkja tengla…</string>
+    <string name="app_links_disable_all_in_progress">Að óvirkja tengla…</string>
     <string name="app_links_open_settings">Opna tenglastillingar</string>
     <string name="app_links_repair_success">Tenglar appsins virkjaðir</string>
     <string name="app_links_repair_failed">Mistókst að virkja app-tengla sjálfkrafa</string>
+    <string name="app_links_disable_success">Tenglar appa óvirkir</string>
+    <string name="app_links_disable_failed">Misvistik við að óvirkja tengla appa</string>
     <string name="app_links_change_failed">Mislaðistst við að breyta tenglum forritsins</string>
     <string name="app_links_all_verified">Allir studdir tenglar eru stilltir til að opnast í þessu appi</string>
     <string name="app_links_fix">Laga tengla</string>
@@ -1414,6 +1415,8 @@ Nánari upplýsingar: %2$s"</string>
     <string name="include">Taka með</string>
     <string name="disable">Gerðu óvirkt</string>
     <string name="enable">Gerðu virkt</string>
+    <string name="enable_all">Virkja öll</string>
+    <string name="disable_all">Slökkva á öllu</string>
     <string name="trust">Treysta</string>
     <string name="loading">Hlaða…</string>
     <string name="creating">Búa til…</string>

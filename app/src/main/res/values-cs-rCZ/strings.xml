@@ -346,8 +346,6 @@ Vyberte, odkud vzít její APK"</string>
     <string name="home_external_apk_expert_mode_required">Tato funkce je dostupná pouze v expertním režimu</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Vyhledat záplaty</string>
-    <string name="expert_mode_disable_all">Vypnout vše</string>
-    <string name="expert_mode_enable_all">Zapnout vše</string>
     <string name="expert_mode_enable_all_universal_pending">Klepněte znovu pro univerzální záplaty</string>
     <string name="expert_mode_universal_all_warning_title">Povolit všechny univerzální záplaty?</string>
     <string name="expert_mode_universal_all_warning_message">Univerzální záplaty nejsou testovány společně. Povolení všech najednou může způsobit konflikty, selhání záplatování nebo pády.</string>
@@ -567,9 +565,12 @@ Pro nejlepší výsledky doporučujeme záplatovat &lt;b&gt;úplný APK&lt;/b&gt
     <string name="app_links_unverified_banner_description">Podporované webové odkazy se nyní otevírají ve vašem prohlížeči místo v této aplikaci</string>
     <string name="app_links_enable_auto">Povolit automaticky</string>
     <string name="app_links_enable_auto_in_progress">Povolování odkazů…</string>
+    <string name="app_links_disable_all_in_progress">Zakazování odkazů…</string>
     <string name="app_links_open_settings">Otevřít nastavení odkazů</string>
     <string name="app_links_repair_success">Odkazy aplikací byly úspěšně povoleny</string>
     <string name="app_links_repair_failed">Nepodařilo se automaticky povolit odkazy aplikací</string>
+    <string name="app_links_disable_success">Odkazy aplikací zakázány</string>
+    <string name="app_links_disable_failed">Nepodařilo se zakázat odkazy aplikací</string>
     <string name="app_links_change_failed">Nepodařilo se změnit odkazy aplikace</string>
     <string name="app_links_all_verified">Všechny podporované odkazy jsou nastaveny tak, aby se otevíraly v této aplikaci</string>
     <string name="app_links_fix">Opravit odkazy</string>
@@ -1415,6 +1416,8 @@ Podrobnosti: %2$s"</string>
     <string name="include">Zahrnout</string>
     <string name="disable">Zakázat</string>
     <string name="enable">Povolit</string>
+    <string name="enable_all">Povolit vše</string>
+    <string name="disable_all">Vypnout vše</string>
     <string name="trust">Důvěřovat</string>
     <string name="loading">Načítání…</string>
     <string name="creating">Vytvářím…</string>

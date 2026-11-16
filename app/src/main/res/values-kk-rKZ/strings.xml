@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">Бұл мүмкіндік тек Сарапшы режимінде қолжетімді</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Патчтарды іздеу</string>
-    <string name="expert_mode_disable_all">Барлығын өшіру</string>
-    <string name="expert_mode_enable_all">Бәрін қосу</string>
     <string name="expert_mode_enable_all_universal_pending">Универсал патчтар үшін қайта басыңыз</string>
     <string name="expert_mode_universal_all_warning_title">Барлық әмбебап патчтарды қосу керек пе?</string>
     <string name="expert_mode_universal_all_warning_message">Универсалды патчтар бірге тестіленбеген. Барлығын бірден қосу қақтығыстарға, патчтаудың сәтсіз болуына немесе қосымшаның жабылуына әкелуі мүмкін</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">Қолдау көрсетілетін веб-сілтемелер қазіргі уақытта осы қолданбаның орнына браузерде ашылады</string>
     <string name="app_links_enable_auto">Автоматты түрде қосу</string>
     <string name="app_links_enable_auto_in_progress">Сілтемелер қосылуда…</string>
+    <string name="app_links_disable_all_in_progress">Сілтемелер өшірілуде…</string>
     <string name="app_links_open_settings">Сілтеме параметрлерін ашу</string>
     <string name="app_links_repair_success">Қолданба сілтемелері сәтті қосылды</string>
     <string name="app_links_repair_failed">Қолданба сілтемелерін автоматты түрде қосу сәтсіз аяқталды</string>
+    <string name="app_links_disable_success">Қолданба сілтемелері өшірілді</string>
+    <string name="app_links_disable_failed">Қолданба сілтемелерін өшіру сәтсіз аяқталды</string>
     <string name="app_links_change_failed">Қолданба сілтемелерін өзгерту сәтсіз аяқталды</string>
     <string name="app_links_all_verified">Барлық қолдау көрсетілетін сілтемелер осы қолданбада ашуға бапталған</string>
     <string name="app_links_fix">Сілтемелерді түзету</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">Қосу</string>
     <string name="disable">Өшіру</string>
     <string name="enable">Қосу</string>
+    <string name="enable_all">Барлығын қосу</string>
+    <string name="disable_all">Бәрін өшіру</string>
     <string name="trust">Сенім білдіру</string>
     <string name="loading">Жүктелуде…</string>
     <string name="creating">Жасалуда…</string>

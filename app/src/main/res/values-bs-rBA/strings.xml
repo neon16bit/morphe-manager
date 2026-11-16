@@ -346,8 +346,6 @@ Izaberite odakle preuzeti njen APK"</string>
     <string name="home_external_apk_expert_mode_required">Ova funkcija je dostupna samo u ekspertskom načinu rada</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Pretraži zakrpe</string>
-    <string name="expert_mode_disable_all">Onemogući sve</string>
-    <string name="expert_mode_enable_all">Omogući sve</string>
     <string name="expert_mode_enable_all_universal_pending">Dodirnite ponovo za univerzalne zakrpe</string>
     <string name="expert_mode_universal_all_warning_title">Omogući sve univerzalne zakrpe?</string>
     <string name="expert_mode_universal_all_warning_message">Univerzalne zakrpe nisu testirane zajedno. Omogućavanje svih odjednom može uzrokovati konflikte, neuspješno zakrpljivanje ili rušenje aplikacije</string>
@@ -567,9 +565,12 @@ Za najbolje rezultate, ova aplikacija preporučuje zakrpljivanje &lt;b&gt;punog 
     <string name="app_links_unverified_banner_description">Podržane web veze trenutno se otvaraju u vašem pretraživaču umjesto u ovoj aplikaciji</string>
     <string name="app_links_enable_auto">Omogući automatski</string>
     <string name="app_links_enable_auto_in_progress">Omogućavanje veza…</string>
+    <string name="app_links_disable_all_in_progress">Onemogućavanje poveznica…</string>
     <string name="app_links_open_settings">Otvori postavke poveznica</string>
     <string name="app_links_repair_success">Poveznice aplikacije su uspješno omogućene</string>
     <string name="app_links_repair_failed">Neuspjelo automatsko omogućavanje poveznica aplikacije</string>
+    <string name="app_links_disable_success">Poveznice aplikacije su onemogućene</string>
+    <string name="app_links_disable_failed">Neuspjelo onemogućavanje poveznica aplikacije</string>
     <string name="app_links_change_failed">Neuspješna promjena poveznica aplikacije</string>
     <string name="app_links_all_verified">Sve podržane poveznice su konfigurirane da se otvaraju u ovoj aplikaciji</string>
     <string name="app_links_fix">Popravi poveznice</string>
@@ -1415,6 +1416,8 @@ Detalji: %2$s"</string>
     <string name="include">Uključi</string>
     <string name="disable">Onemogući</string>
     <string name="enable">Omogući</string>
+    <string name="enable_all">Omogući sve</string>
+    <string name="disable_all">Onemogući sve</string>
     <string name="trust">Vjeruj</string>
     <string name="loading">Učitavanje…</string>
     <string name="creating">Kreiranje…</string>

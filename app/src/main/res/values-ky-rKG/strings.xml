@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">Бул функция Эксперт режиминде гана жеткиликтүү</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Патчтарды издөө</string>
-    <string name="expert_mode_disable_all">Баарын өчүрүү</string>
-    <string name="expert_mode_enable_all">Баарын күйгүзүү</string>
     <string name="expert_mode_enable_all_universal_pending">Универсалдуу патчтар үчүн кайра басыңыз</string>
     <string name="expert_mode_universal_all_warning_title">Бардык универсалдуу патчтарды иштетүүбү?</string>
     <string name="expert_mode_universal_all_warning_message">Универсалдуу патчтар бирге тестирленген эмес. Бардыгын бир убакта күydүрүү чыр-чатактарга, патчтоонун иштебей калышына же программанын бузулушуна алып келиши мүмкүн</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">Колдоого алынган веб-шилтемелер учурда бул колдонмонун ордуна браузериңизде ачылат</string>
     <string name="app_links_enable_auto">Автоматтык түрдө күйгүзүү</string>
     <string name="app_links_enable_auto_in_progress">Шилтемелер күйгүзүлүүдө…</string>
+    <string name="app_links_disable_all_in_progress">Шилтемелер өчүрүлүүдө…</string>
     <string name="app_links_open_settings">Шилтемелердин жөндөөлөрүн ачуу</string>
     <string name="app_links_repair_success">Колдонмонун шилтемелери ийгиликтүү күйгүзүлдү</string>
     <string name="app_links_repair_failed">Колдонмонун шилтемелерин автоматтык түрдө күйгүзүү мүмкүн болбоду</string>
+    <string name="app_links_disable_success">Тиркеме шилтемелери өчүрүлдү</string>
+    <string name="app_links_disable_failed">Тиркеме шилтемелерин өчүрүү мүмкүн болгон жок</string>
     <string name="app_links_change_failed">Тиркеме шилтемелерин өзгөртүү мүмкүн болгон жок</string>
     <string name="app_links_all_verified">Бардык колдоого алынган шилтемелер ушул колдонмодо ачылуучу болуп жөндөлдү</string>
     <string name="app_links_fix">Шилтемелерди оңдоо</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">Кошуу</string>
     <string name="disable">Өчүрүү</string>
     <string name="enable">Күйгүзүү</string>
+    <string name="enable_all">Баарын иштетүү</string>
+    <string name="disable_all">Баарын өчүрүү</string>
     <string name="trust">Ишенүү</string>
     <string name="loading">Жүктөлүүдө…</string>
     <string name="creating">Жаратылууда…</string>

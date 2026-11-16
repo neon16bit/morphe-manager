@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">यह सुविधा केवल विशेषज्ञ मोड में उपलब्ध है</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">पैच खोजें</string>
-    <string name="expert_mode_disable_all">सभी को असक्षम करें</string>
-    <string name="expert_mode_enable_all">सभी को सक्षम करें</string>
     <string name="expert_mode_enable_all_universal_pending">यूनिवर्सल पैच के लिए फिर से टैप करें</string>
     <string name="expert_mode_universal_all_warning_title">क्या सभी यूनिवर्सल पैच सक्षम करें?</string>
     <string name="expert_mode_universal_all_warning_message">यूनिवर्सल पैच एक साथ परीक्षण नहीं किए गए हैं। उन सभी को एक साथ सक्षम करने से टकराव, विफल पैचिंग या क्रैश हो सकते हैं</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">समर्थित वेब लिंक वर्तमान में इस ऐप के बजाय आपके ब्राउज़र में खुलते हैं</string>
     <string name="app_links_enable_auto">अपने आप चालू करें</string>
     <string name="app_links_enable_auto_in_progress">लिंक चालू किए जा रहे हैं…</string>
+    <string name="app_links_disable_all_in_progress">लिंक अक्षम किए जा रहे हैं…</string>
     <string name="app_links_open_settings">लिंक सेटिंग खोलें</string>
     <string name="app_links_repair_success">ऐप लिंक सफलतापूर्वक चालू हो गए</string>
     <string name="app_links_repair_failed">ऐप लिंक अपने आप चालू नहीं हो सके</string>
+    <string name="app_links_disable_success">ऐप लिंक अक्षम कर दिए गए</string>
+    <string name="app_links_disable_failed">ऐप लिंक अक्षम करने में विफल</string>
     <string name="app_links_change_failed">ऐप लिंक बदलने में विफल</string>
     <string name="app_links_all_verified">सभी सपोर्टेड लिंक इस ऐप में खुलने के लिए सेट हैं</string>
     <string name="app_links_fix">लिंक ठीक करें</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">शामिल करें</string>
     <string name="disable">अक्षम करें</string>
     <string name="enable">सक्षम करें</string>
+    <string name="enable_all">सभी चालू करें</string>
+    <string name="disable_all">सभी अक्षम करें</string>
     <string name="trust">भरोसा करें</string>
     <string name="loading">लोड हो रहा है…</string>
     <string name="creating">बनाया जा रहा है…</string>

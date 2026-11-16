@@ -346,8 +346,6 @@ Vyberte, odkiaľ má aplikácia stiahnuť APK"</string>
     <string name="home_external_apk_expert_mode_required">Táto funkcia je dostupná iba v expert móde</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Vyhľadať záplaty</string>
-    <string name="expert_mode_disable_all">Zakázať všetko</string>
-    <string name="expert_mode_enable_all">Povoliť všetko</string>
     <string name="expert_mode_enable_all_universal_pending">Klepnite znova pre univerzálne záplaty</string>
     <string name="expert_mode_universal_all_warning_title">Povoliť všetky univerzálne opravy?</string>
     <string name="expert_mode_universal_all_warning_message">Univerzálne opravy nie sú testované spoločne. Povolenie všetkých naraz môže spôsobiť konflikty, zlyhanie opravy alebo pády.</string>
@@ -567,9 +565,12 @@ Pre najlepšie výsledky sa odporúča záplatovať &lt;b&gt;úplný APK&lt;/b&g
     <string name="app_links_unverified_banner_description">Podporované webové odkazy sa momentálne otvárajú vo vašom prehliadači namiesto v tejto aplikácii</string>
     <string name="app_links_enable_auto">Povoliť automaticky</string>
     <string name="app_links_enable_auto_in_progress">Povoľujú sa odkazy…</string>
+    <string name="app_links_disable_all_in_progress">Vypínanie odkazov aplikácií…</string>
     <string name="app_links_open_settings">Otvoriť nastavenia odkazov</string>
     <string name="app_links_repair_success">Odkazy aplikácie boli úspešne povolené</string>
     <string name="app_links_repair_failed">Nepodarilo sa automaticky povoliť odkazy aplikácie</string>
+    <string name="app_links_disable_success">Odkazy aplikácií boli vypnuté</string>
+    <string name="app_links_disable_failed">Nepodarilo sa vypnúť odkazy aplikácií</string>
     <string name="app_links_change_failed">Nepodarilo sa zmeniť odkazy aplikácie</string>
     <string name="app_links_all_verified">Všetky podporované odkazy sú nakonfigurované tak, aby sa otvárali v tejto aplikácii</string>
     <string name="app_links_fix">Opraviť odkazy</string>
@@ -1415,6 +1416,8 @@ Podrobnosti: %2$s"</string>
     <string name="include">Zahrnúť</string>
     <string name="disable">Zakázať</string>
     <string name="enable">Povoliť</string>
+    <string name="enable_all">Povoliť všetko</string>
+    <string name="disable_all">Zakázať všetko</string>
     <string name="trust">Dôvera</string>
     <string name="loading">Načítava sa…</string>
     <string name="creating">Vytváram…</string>

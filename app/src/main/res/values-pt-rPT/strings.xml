@@ -346,8 +346,6 @@ Escolha de onde obter o seu APK"</string>
     <string name="home_external_apk_expert_mode_required">Esta funcionalidade está disponível apenas no modo Expert</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Pesquisar modificações</string>
-    <string name="expert_mode_disable_all">Desativar todas</string>
-    <string name="expert_mode_enable_all">Ativar todas</string>
     <string name="expert_mode_enable_all_universal_pending">Toque novamente para patches universais</string>
     <string name="expert_mode_universal_all_warning_title">Ativar todas as correções universais?</string>
     <string name="expert_mode_universal_all_warning_message">As correções universais não são testadas em conjunto. Ativar todas de uma vez pode causar conflitos, falhas de correção ou travamentos.</string>
@@ -567,9 +565,12 @@ Para obteres os melhores resultados, este ficheiro recomenda a modificação de 
     <string name="app_links_unverified_banner_description">Os links da web suportados abrem atualmente no seu navegador em vez desta aplicação</string>
     <string name="app_links_enable_auto">Ativar automaticamente</string>
     <string name="app_links_enable_auto_in_progress">A ativar links…</string>
+    <string name="app_links_disable_all_in_progress">A desativar links…</string>
     <string name="app_links_open_settings">Abrir definições de links</string>
     <string name="app_links_repair_success">Links do app ativados com sucesso</string>
     <string name="app_links_repair_failed">Falha ao ativar os links da aplicação automaticamente</string>
+    <string name="app_links_disable_success">Links da aplicação desativados</string>
+    <string name="app_links_disable_failed">Erro ao desativar links da aplicação</string>
     <string name="app_links_change_failed">Falha ao alterar os links do app</string>
     <string name="app_links_all_verified">Todos os links compatíveis estão configurados para abrir nesta aplicação</string>
     <string name="app_links_fix">Corrigir links</string>
@@ -1415,6 +1416,8 @@ Detalhes: %2$s"</string>
     <string name="include">Incluir</string>
     <string name="disable">Desativar</string>
     <string name="enable">Ativar</string>
+    <string name="enable_all">Ativar todas</string>
+    <string name="disable_all">Desativar todas</string>
     <string name="trust">Confiar</string>
     <string name="loading">A carregar…</string>
     <string name="creating">A criar…</string>

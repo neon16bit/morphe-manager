@@ -346,8 +346,6 @@ Velg hvor APK-filen skal hentes fra"</string>
     <string name="home_external_apk_expert_mode_required">Denne funksjonen er bare tilgjengelig i ekspertmodus</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Søk etter patcher</string>
-    <string name="expert_mode_disable_all">Deaktiver alle</string>
-    <string name="expert_mode_enable_all">Aktiver alle</string>
     <string name="expert_mode_enable_all_universal_pending">Trykk igjen for universelle patcher</string>
     <string name="expert_mode_universal_all_warning_title">Aktiver alle universelle patcher?</string>
     <string name="expert_mode_universal_all_warning_message">Universelle patcher er ikke testet sammen. Å aktivere alle på en gang kan forårsake konflikter, mislykket patching eller krasj.</string>
@@ -567,9 +565,12 @@ For de beste resultatene anbefaler denne appen å patche en &lt;b&gt;full APK-fi
     <string name="app_links_unverified_banner_description">Støttede nettlenker åpnes for øyeblikket i nettleseren din i stedet for denne appen</string>
     <string name="app_links_enable_auto">Aktiver automatisk</string>
     <string name="app_links_enable_auto_in_progress">Aktiverer lenker…</string>
+    <string name="app_links_disable_all_in_progress">Deaktiverer lenker…</string>
     <string name="app_links_open_settings">Åpne lenkeinnstillinger</string>
     <string name="app_links_repair_success">App-lenker ble aktivert</string>
     <string name="app_links_repair_failed">Kunne ikke aktivere app-lenker automatisk</string>
+    <string name="app_links_disable_success">App-lenker deaktivert</string>
+    <string name="app_links_disable_failed">Kunne ikke deaktivere app-lenker</string>
     <string name="app_links_change_failed">Kunne ikke endre app-lenker</string>
     <string name="app_links_all_verified">Alle støttede lenker er konfigurert til å åpnes i denne appen</string>
     <string name="app_links_fix">Reparer lenker</string>
@@ -1415,6 +1416,8 @@ Detaljer: %2$s"</string>
     <string name="include">Inkluder</string>
     <string name="disable">Deaktiver</string>
     <string name="enable">Aktiver</string>
+    <string name="enable_all">Aktiver alle</string>
+    <string name="disable_all">Deaktiver alle</string>
     <string name="trust">Stol på</string>
     <string name="loading">Laster…</string>
     <string name="creating">Opprettes…</string>

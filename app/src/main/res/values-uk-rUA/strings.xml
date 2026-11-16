@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">Ця функція доступна лише в режимі Експерта</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Пошук патчів</string>
-    <string name="expert_mode_disable_all">Вимкнути всі</string>
-    <string name="expert_mode_enable_all">Увімкнути всі</string>
     <string name="expert_mode_enable_all_universal_pending">Натисніть ще раз для універсальних патчів</string>
     <string name="expert_mode_universal_all_warning_title">Увімкнути всі універсальні патчі?</string>
     <string name="expert_mode_universal_all_warning_message">Універсальні патчі не тестуються разом. Увімкнення всіх одночасно може спричинити конфлікти, невдалий патчинг або збої</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">Підтримувані вебпосилання наразі відкриваються у браузері замість цього застосунку</string>
     <string name="app_links_enable_auto">Увімкнути автоматично</string>
     <string name="app_links_enable_auto_in_progress">Увімкнення посилань…</string>
+    <string name="app_links_disable_all_in_progress">Вимкнення посилань…</string>
     <string name="app_links_open_settings">Відкрити налаштування посилань</string>
     <string name="app_links_repair_success">Посилання застосунку успішно увімкнено</string>
     <string name="app_links_repair_failed">Не вдалося автоматично увімкнути посилання застосунку</string>
+    <string name="app_links_disable_success">Посилання застосунку вимкнено</string>
+    <string name="app_links_disable_failed">Не вдалося вимкнути посилання застосунку</string>
     <string name="app_links_change_failed">Не вдалося змінити посилання застосунку</string>
     <string name="app_links_all_verified">Усі підтримувані посилання налаштовано на відкриття в цьому застосунку</string>
     <string name="app_links_fix">Виправити посилання</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">Включити</string>
     <string name="disable">Вимкнути</string>
     <string name="enable">Увімкнути</string>
+    <string name="enable_all">Увімкнути всі</string>
+    <string name="disable_all">Вимкнути всі</string>
     <string name="trust">Довіряти</string>
     <string name="loading">Завантаження…</string>
     <string name="creating">Створення…</string>

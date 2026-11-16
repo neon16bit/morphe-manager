@@ -346,8 +346,6 @@ Pasirinkite, iš kur paimti jos APK"</string>
     <string name="home_external_apk_expert_mode_required">Ši funkcija yra prieinama tik Ekspertų režime</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Ieškoti modifikacijų</string>
-    <string name="expert_mode_disable_all">Išjungti viską</string>
-    <string name="expert_mode_enable_all">Įjungti visus</string>
     <string name="expert_mode_enable_all_universal_pending">Palieskite dar kartą, kad įjungtumėte universalias pataisas</string>
     <string name="expert_mode_universal_all_warning_title">Įjungti visas universalias pataisas?</string>
     <string name="expert_mode_universal_all_warning_message">Universalios pataisos nėra išbandytos kartu. Įjungus jas visas vienu metu, gali kilti konfliktų, pataisymas gali nepavykti arba programa gali strigti</string>
@@ -567,9 +565,12 @@ Norint gauti geriausią rezultatą, ši programa rekomenduoja pataisyti &lt;b&gt
     <string name="app_links_unverified_banner_description">Palaikomos žiniatinklio nuorodos dabar atidaromos naršyklėje, o ne šioje programėlėje</string>
     <string name="app_links_enable_auto">Įjungti automatiškai</string>
     <string name="app_links_enable_auto_in_progress">Įjungiamos nuorodos…</string>
+    <string name="app_links_disable_all_in_progress">Išjungiamos nuorodos…</string>
     <string name="app_links_open_settings">Atidaryti nuorodų nustatymus</string>
     <string name="app_links_repair_success">Programėlės nuorodos sėkmingai įjungtos</string>
     <string name="app_links_repair_failed">Nepavyko automatiškai įjungti programėlės nuorodų</string>
+    <string name="app_links_disable_success">Programos nuorodos išjungtos</string>
+    <string name="app_links_disable_failed">Nepavyko išjungti programos nuorodų</string>
     <string name="app_links_change_failed">Nepavyko pakeisti programėlės nuorodų</string>
     <string name="app_links_all_verified">Visos palaikomos nuorodos sukonfigūruotos atidaryti šioje programėlėje</string>
     <string name="app_links_fix">Ištaisyti nuorodas</string>
@@ -1415,6 +1416,8 @@ Išsami informacija: %2$s"</string>
     <string name="include">Įtraukti</string>
     <string name="disable">Išjungti</string>
     <string name="enable">Įjungti</string>
+    <string name="enable_all">Įjungti visus</string>
+    <string name="disable_all">Išjungti viską</string>
     <string name="trust">Pasitikėti</string>
     <string name="loading">Įkeliama…</string>
     <string name="creating">Kuriama…</string>

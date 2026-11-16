@@ -346,8 +346,6 @@ Chagua mahali pa kuchukulia APK yake"</string>
     <string name="home_external_apk_expert_mode_required">Kipengele hiki kinapatikana tu katika modi ya Expert</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Tafuta viraka</string>
-    <string name="expert_mode_disable_all">Zima zote</string>
-    <string name="expert_mode_enable_all">Washa zote</string>
     <string name="expert_mode_enable_all_universal_pending">Gusa tena kwa ajili ya marekebisho ya ulimwengu</string>
     <string name="expert_mode_universal_all_warning_title">Washa viraka vyote vya ulimwengu?</string>
     <string name="expert_mode_universal_all_warning_message">Viraka vya ulimwengu havijajaribiwa pamoja. Kuwashwa kwa vyote kwa wakati mmoja kunaweza kusababisha migongano, kushindwa kwa viraka, au programu kufungwa ghafla</string>
@@ -567,9 +565,12 @@ Kwa matokeo bora, programu hii inapendekeza kutumia &lt;b&gt;full APK&lt;/b&gt;"
     <string name="app_links_unverified_banner_description">Viungo vya wavuti vinavyokubalika hivi sasa hufunguka kwenye kivinjari chako badala ya programu hii</string>
     <string name="app_links_enable_auto">Washa kiotomatiki</string>
     <string name="app_links_enable_auto_in_progress">Inawasha viungo…</string>
+    <string name="app_links_disable_all_in_progress">Inazima viungo…</string>
     <string name="app_links_open_settings">Fungua mipangilio ya kiungo</string>
     <string name="app_links_repair_success">Viungo vya programu vimewashwa kwa mafanikio</string>
     <string name="app_links_repair_failed">Imeshindwa kuwasha viungo vya programu kiotomatiki</string>
+    <string name="app_links_disable_success">Viungo vya programu vimezimwa</string>
+    <string name="app_links_disable_failed">Imeshindwa kuzima viungo vya programu</string>
     <string name="app_links_change_failed">Imeshindwa kubadilisha viunganishi vya programu</string>
     <string name="app_links_all_verified">Viungo vyote vinavyokubalika vimepangwa kufunguka katika programu hii</string>
     <string name="app_links_fix">Rekebisha viungo</string>
@@ -1415,6 +1416,8 @@ Maelezo: %2$s"</string>
     <string name="include">Jumuisha</string>
     <string name="disable">Zima</string>
     <string name="enable">Washa</string>
+    <string name="enable_all">Washa vyote</string>
+    <string name="disable_all">Zima zote</string>
     <string name="trust">Aminia</string>
     <string name="loading">Inapakia…</string>
     <string name="creating">Inaunda…</string>

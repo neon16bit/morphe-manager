@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">Ова функција је доступна само у режиму за напредне кориснике</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Претражи закрпе</string>
-    <string name="expert_mode_disable_all">Онемогући све</string>
-    <string name="expert_mode_enable_all">Омогући све</string>
     <string name="expert_mode_enable_all_universal_pending">Додирните поново за универзалне закрпе</string>
     <string name="expert_mode_universal_all_warning_title">Омогући све универзалне закрпе?</string>
     <string name="expert_mode_universal_all_warning_message">Универзалне закрпе нису тестиране заједно. Омогућавање свих одједном може изазвати конфликте, неуспех примене закрпа или падове.</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">Подржани веб линкови се тренутно отварају у вашем прегледачу уместо у овој апликацији</string>
     <string name="app_links_enable_auto">Омогући аутоматски</string>
     <string name="app_links_enable_auto_in_progress">Омогућавање линкова…</string>
+    <string name="app_links_disable_all_in_progress">Онемогућавање линкова…</string>
     <string name="app_links_open_settings">Отвори подешавања линкова</string>
     <string name="app_links_repair_success">Апликациони линкови су успешно омогућени</string>
     <string name="app_links_repair_failed">Аутоматско омогућавање апликационих линкова није успело</string>
+    <string name="app_links_disable_success">Линкови апликације су онемогућени</string>
+    <string name="app_links_disable_failed">Неуспешно онемогућавање линкова апликације</string>
     <string name="app_links_change_failed">Неуспешна промена везе апликација</string>
     <string name="app_links_all_verified">Сви подржани линкови су подешени да се отварају у овој апликацији</string>
     <string name="app_links_fix">Поправи линкове</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">Укључи</string>
     <string name="disable">Онемогући</string>
     <string name="enable">Укључи</string>
+    <string name="enable_all">Омогући све</string>
+    <string name="disable_all">Онемогући све</string>
     <string name="trust">Присуди</string>
     <string name="loading">Учитавање…</string>
     <string name="creating">Креирање…</string>

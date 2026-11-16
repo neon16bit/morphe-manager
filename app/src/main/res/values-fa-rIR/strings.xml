@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">این ویژگی فقط در حالت حرفه‌ای در دسترس است</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">جستجوی پچ ها</string>
-    <string name="expert_mode_disable_all">غیرفعال کردن همه</string>
-    <string name="expert_mode_enable_all">فعال کردن همه</string>
     <string name="expert_mode_enable_all_universal_pending">برای پچ‌های همگانی دوباره ضربه بزنید</string>
     <string name="expert_mode_universal_all_warning_title">همهٔ پچ‌های همگانی فعال شوند؟</string>
     <string name="expert_mode_universal_all_warning_message">پچ‌های همگانی در کنار یکدیگر آزمایش نشده‌اند. فعال‌کردن همهٔ آن‌ها به‌صورت هم‌زمان ممکن است باعث تداخل، شکست پچ‌کردن یا از کار افتادن برنامه شود</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">پیوندهای وب پشتیبانی‌شده در حال حاضر به‌جای این برنامه در مرورگر شما باز می‌شوند</string>
     <string name="app_links_enable_auto">فعال‌سازی خودکار</string>
     <string name="app_links_enable_auto_in_progress">در حال فعال‌سازی پیوندها…</string>
+    <string name="app_links_disable_all_in_progress">غیرفعال کردن لینک‌ها…</string>
     <string name="app_links_open_settings">باز کردن تنظیمات پیوندها</string>
     <string name="app_links_repair_success">پیوندهای برنامه با موفقیت فعال شدند</string>
     <string name="app_links_repair_failed">فعال‌سازی خودکار پیوندهای برنامه ناموفق بود</string>
+    <string name="app_links_disable_success">لینک‌های برنامه غیرفعال شدند</string>
+    <string name="app_links_disable_failed">غیرفعال کردن لینک‌های برنامه ناموفق بود</string>
     <string name="app_links_change_failed">تغییر لینک‌های اپلیکیشن ناموفق بود</string>
     <string name="app_links_all_verified">همه پیوندهای پشتیبانی‌شده برای باز شدن در این برنامه تنظیم شده‌اند</string>
     <string name="app_links_fix">اصلاح پیوندها</string>
@@ -1417,6 +1418,8 @@ adb shell appops set %1$s MANAGE_EXTERNAL_STORAGE allow</string>
     <string name="include">گنجاندن</string>
     <string name="disable">غیرفعال‌کردن</string>
     <string name="enable">فعال‌کردن</string>
+    <string name="enable_all">فعال کردن همه</string>
+    <string name="disable_all">غیرفعال کردن همه</string>
     <string name="trust">اعتماد</string>
     <string name="loading">در حال بارگذاری…</string>
     <string name="creating">در حال ساخت…</string>

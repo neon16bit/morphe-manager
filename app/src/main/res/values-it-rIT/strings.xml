@@ -346,8 +346,6 @@ Scegli da dove scaricare l'APK."</string>
     <string name="home_external_apk_expert_mode_required">Questa funzione è disponibile solo in modalità Esperto</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Cerca patch</string>
-    <string name="expert_mode_disable_all">Disabilita tutte</string>
-    <string name="expert_mode_enable_all">Abilita tutte</string>
     <string name="expert_mode_enable_all_universal_pending">Tocca di nuovo per le patch universali</string>
     <string name="expert_mode_universal_all_warning_title">Abilitare tutte le patch universali?</string>
     <string name="expert_mode_universal_all_warning_message">Le patch universali non sono testate insieme. Abilitarle tutte contemporaneamente può causare conflitti, errori di patch o arresti anomali.</string>
@@ -567,9 +565,12 @@ Per ottenere i risultati migliori, questa app raccomanda di applicare una patch 
     <string name="app_links_unverified_banner_description">I collegamenti web supportati attualmente si aprono nel browser invece che in questa app</string>
     <string name="app_links_enable_auto">Abilita automaticamente</string>
     <string name="app_links_enable_auto_in_progress">Abilitazione dei collegamenti…</string>
+    <string name="app_links_disable_all_in_progress">Disattivazione link…</string>
     <string name="app_links_open_settings">Apri le impostazioni dei collegamenti</string>
     <string name="app_links_repair_success">Collegamenti all\'app abilitati correttamente</string>
     <string name="app_links_repair_failed">Non è stato possibile abilitare automaticamente i collegamenti all\'app</string>
+    <string name="app_links_disable_success">Link dell\'app disattivati</string>
+    <string name="app_links_disable_failed">Impossibile disattivare i link dell\'app</string>
     <string name="app_links_change_failed">Impossibile modificare i collegamenti all\'app</string>
     <string name="app_links_all_verified">Tutti i collegamenti supportati sono configurati per aprirsi in questa app</string>
     <string name="app_links_fix">Correggi i collegamenti</string>
@@ -1415,6 +1416,8 @@ Dettagli: %2$s"</string>
     <string name="include">Includi</string>
     <string name="disable">Disabilita</string>
     <string name="enable">Attiva</string>
+    <string name="enable_all">Abilita tutto</string>
+    <string name="disable_all">Disattiva tutto</string>
     <string name="trust">Fidati</string>
     <string name="loading">Caricamento in corso…</string>
     <string name="creating">Creazione…</string>

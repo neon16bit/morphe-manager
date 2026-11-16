@@ -346,8 +346,6 @@ Vælg, hvor dens APK skal hentes fra"</string>
     <string name="home_external_apk_expert_mode_required">Denne funktion er kun tilgængelig i Eksperttilstand</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Søg patches</string>
-    <string name="expert_mode_disable_all">Deaktiver alle</string>
-    <string name="expert_mode_enable_all">Aktiver alle</string>
     <string name="expert_mode_enable_all_universal_pending">Tryk igen for universelle patches</string>
     <string name="expert_mode_universal_all_warning_title">Aktivér alle universelle patcher?</string>
     <string name="expert_mode_universal_all_warning_message">Universelle patcher er ikke testet sammen. Aktivering af alle på én gang kan forårsage konflikter, mislykket patchning eller nedbrud</string>
@@ -567,9 +565,12 @@ For de bedste resultater anbefaler denne app at patche en &lt;b&gt;fuld APK&lt;/
     <string name="app_links_unverified_banner_description">Understøttede weblinks åbnes i øjeblikket i din browser i stedet for denne app</string>
     <string name="app_links_enable_auto">Aktivér automatisk</string>
     <string name="app_links_enable_auto_in_progress">Aktiverer links…</string>
+    <string name="app_links_disable_all_in_progress">Deaktiverer links…</string>
     <string name="app_links_open_settings">Åbn linkindstillinger</string>
     <string name="app_links_repair_success">App-links blev aktiveret med succes</string>
     <string name="app_links_repair_failed">Kunne ikke aktivere app-links automatisk</string>
+    <string name="app_links_disable_success">App-links deaktiveret</string>
+    <string name="app_links_disable_failed">Kunne ikke deaktivere app-links</string>
     <string name="app_links_change_failed">Kunne ikke ændre app-links</string>
     <string name="app_links_all_verified">Alle understøttede links er konfigureret til at åbne i denne app</string>
     <string name="app_links_fix">Reparer links</string>
@@ -1415,6 +1416,8 @@ Detaljer: %2$s"</string>
     <string name="include">Inkluder</string>
     <string name="disable">Deaktivér</string>
     <string name="enable">Aktiver</string>
+    <string name="enable_all">Aktiver alle</string>
+    <string name="disable_all">Deaktivér alle</string>
     <string name="trust">Stol på</string>
     <string name="loading">Indlæser…</string>
     <string name="creating">Opretter…</string>

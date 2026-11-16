@@ -346,8 +346,6 @@ Escolle de onde collegar o seu APK"</string>
     <string name="home_external_apk_expert_mode_required">Esta funcionalidade só está dispoñible no modo Experto</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Buscar parches</string>
-    <string name="expert_mode_disable_all">Desactivar todo</string>
-    <string name="expert_mode_enable_all">Activar todo</string>
     <string name="expert_mode_enable_all_universal_pending">Toca de novo para os parches universais</string>
     <string name="expert_mode_universal_all_warning_title">Activar todos os parches universais?</string>
     <string name="expert_mode_universal_all_warning_message">Os parches universais non foron probados xuntos. Activalos todos a veza pode causar conflitos, fallos no parcheo ou erros do sistema</string>
@@ -568,9 +566,12 @@ Elixe outro APK</string>
     <string name="app_links_unverified_banner_description">As ligazóns web compatibles ábrense actualmente no seu navegador en vez desta aplicación</string>
     <string name="app_links_enable_auto">Activar automaticamente</string>
     <string name="app_links_enable_auto_in_progress">Activando ligazóns…</string>
+    <string name="app_links_disable_all_in_progress">Desactivando ligazóns…</string>
     <string name="app_links_open_settings">Abrir configuración de ligazóns</string>
     <string name="app_links_repair_success">Ligazóns da aplicación activadas con éxito</string>
     <string name="app_links_repair_failed">Erro ao activar as ligazóns da aplicación automaticamente</string>
+    <string name="app_links_disable_success">Ligazóns da app desactivadas</string>
+    <string name="app_links_disable_failed">Erro ao desactivar as ligazóns da app</string>
     <string name="app_links_change_failed">Fallou ao cambiar os ligazóns da aplicación</string>
     <string name="app_links_all_verified">Todas as ligazóns compatibles están configuradas para abrirse nesta aplicación</string>
     <string name="app_links_fix">Correxir ligazóns</string>
@@ -1416,6 +1417,8 @@ Detalles: %2$s"</string>
     <string name="include">Incluir</string>
     <string name="disable">Desactivar</string>
     <string name="enable">Activar</string>
+    <string name="enable_all">Activar todo</string>
+    <string name="disable_all">Desactivar todo</string>
     <string name="trust">Confiar</string>
     <string name="loading">Cargando…</string>
     <string name="creating">Creando…</string>

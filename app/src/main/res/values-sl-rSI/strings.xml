@@ -346,8 +346,6 @@ Izberite,  iz kje izbrati APK"</string>
     <string name="home_external_apk_expert_mode_required">Ta funkcija je na voljo samo v strokovnem načinu</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Išči popravke</string>
-    <string name="expert_mode_disable_all">Onemogoči vse</string>
-    <string name="expert_mode_enable_all">Omogoči vse</string>
     <string name="expert_mode_enable_all_universal_pending">Ponovno se dotaknite za univerzalne popravke.</string>
     <string name="expert_mode_universal_all_warning_title">Omogoči vse univerzalne popravke?</string>
     <string name="expert_mode_universal_all_warning_message">Univerzalni popravki niso testirani skupaj. Omogočanje vseh hkrati lahko povzroči konflikte, neuspešno popravljanje ali sesutje.</string>
@@ -567,9 +565,12 @@ Za najboljše rezultate ta aplikacija priporoča popravljanje &lt;b&gt;polnega A
     <string name="app_links_unverified_banner_description">Podprte spletne povezave se trenutno odpirajo v vašem brskalniku namesto v tej aplikaciji</string>
     <string name="app_links_enable_auto">Omogoči samodejno</string>
     <string name="app_links_enable_auto_in_progress">Omogočanje povezav…</string>
+    <string name="app_links_disable_all_in_progress">Onemogočanje povezav…</string>
     <string name="app_links_open_settings">Odpri nastavitve povezav</string>
     <string name="app_links_repair_success">Povezave aplikacij so uspešno omogočene</string>
     <string name="app_links_repair_failed">Ni uspelo samodejno omogočiti povezav aplikacij</string>
+    <string name="app_links_disable_success">Povezave aplikacije so onemogočene</string>
+    <string name="app_links_disable_failed">Onemogočanje povezav aplikacije je spodletelo</string>
     <string name="app_links_change_failed">Ni uspelo spremeniti povezav aplikacije</string>
     <string name="app_links_all_verified">Vse podprte povezave so nastavljene tako, da se odpirajo v tej aplikaciji</string>
     <string name="app_links_fix">Popravite povezave</string>
@@ -1415,6 +1416,8 @@ Podrobnosti: %2$s"</string>
     <string name="include">Vključi</string>
     <string name="disable">Onemogoči</string>
     <string name="enable">Omogoči</string>
+    <string name="enable_all">Omogoči vse</string>
+    <string name="disable_all">Onemogoči vse</string>
     <string name="trust">Zaupanje</string>
     <string name="loading">Nalaganje…</string>
     <string name="creating">Ustvarjam…</string>

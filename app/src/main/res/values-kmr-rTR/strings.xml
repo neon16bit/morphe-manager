@@ -346,8 +346,6 @@ Hilbijêre ku APK ya wê ji ku derê bê"</string>
     <string name="home_external_apk_expert_mode_required">Ev taybetmendî tenê di Moda Pispor de heye</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Patchan bigere</string>
-    <string name="expert_mode_disable_all">Hemûyan neçalak bike</string>
-    <string name="expert_mode_enable_all">Hemûyan çalak bike</string>
     <string name="expert_mode_enable_all_universal_pending">Dîsa bitikîne ji bo patchên universal</string>
     <string name="expert_mode_universal_all_warning_title">Hemû patchên gerdûnî çalak bike?</string>
     <string name="expert_mode_universal_all_warning_message">Patchên gerdûnî bi hev re nehatine ceribandin. Çalakkirina hemûyan bi carekê dikare bibe sedema nakokî, patchkirina têkçûyî, an jî hilweşînan.</string>
@@ -567,9 +565,12 @@ Ji bo encamên çêtir, ev app pêşniyar dike ku APKya &lt;b&gt;tam&lt;/b&gt; w
     <string name="app_links_unverified_banner_description">Girêdanên webê yên piştgirîkirî niha li şûna vê sepanê di geroka te de vedibin.</string>
     <string name="app_links_enable_auto">Bi otomatîkî çalak bike</string>
     <string name="app_links_enable_auto_in_progress">Girêdan têne çalakkirin…</string>
+    <string name="app_links_disable_all_in_progress">Betalkirina girêdanan…</string>
     <string name="app_links_open_settings">Mîhengên girêdanê veke</string>
     <string name="app_links_repair_success">Girêdanên sepanê bi serfirazî hatin çalakkirin.</string>
     <string name="app_links_repair_failed">Çalakkirina otomatîkî ya girêdanên sepanê têk çû.</string>
+    <string name="app_links_disable_success">Girêdanên sepê hatin betalkirin</string>
+    <string name="app_links_disable_failed">Betalkirina girêdanên sepê têk çû</string>
     <string name="app_links_change_failed">Guherandina girêdanên sepanê bi ser neket</string>
     <string name="app_links_all_verified">Hemû girêdanên piştgirîkirî hatine mîhengkirin ku di vê sepanê de vebin.</string>
     <string name="app_links_fix">Girêdanan rast bike</string>
@@ -1415,6 +1416,8 @@ Detay: %2$s"</string>
     <string name="include">Tevlî bike</string>
     <string name="disable">Neçalak bike</string>
     <string name="enable">Çalak bike</string>
+    <string name="enable_all">Hemûyan çalak bike</string>
+    <string name="disable_all">Hemûyan neçalak bike</string>
     <string name="trust">Bawer bike</string>
     <string name="loading">Bar kirin…</string>
     <string name="creating">Çêkirin…</string>

@@ -6,7 +6,7 @@
     <string name="home_not_patched_yet">Δεν τροποποιήθηκε ακόμη</string>
     <string name="home_unpatched_version_installed">Εγκαταστάθηκε η μη τροποποιημένη έκδοση</string>
     <string name="home_app_status_newer_version">Ενημέρωση σε %s</string>
-    <string name="home_app_status_newer_patches">Νέα διορθώματα</string>
+    <string name="home_app_status_newer_patches">Νέες τροποποιήσεις</string>
     <!-- Mark on the card of an app built for a device other than a phone -->
     <string name="form_factor_tv">Τηλεόραση</string>
     <string name="form_factor_automotive">Αυτοκίνητο</string>
@@ -346,8 +346,6 @@
     <string name="home_external_apk_expert_mode_required">Αυτή η λειτουργία είναι διαθέσιμη μόνο στην Εξειδικευμένη λειτουργία</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
     <string name="expert_mode_search">Αναζήτηση τροποποιήσεων</string>
-    <string name="expert_mode_disable_all">Απενεργοποίηση όλων</string>
-    <string name="expert_mode_enable_all">Ενεργοποίηση όλων</string>
     <string name="expert_mode_enable_all_universal_pending">Πατήστε ξανά για καθολικά patches</string>
     <string name="expert_mode_universal_all_warning_title">Ενεργοποίηση όλων των καθολικών επιδιορθώσεων;</string>
     <string name="expert_mode_universal_all_warning_message">Οι καθολικές επιδιορθώσεις δεν δοκιμάζονται μαζί. Η ενεργοποίηση όλων ταυτόχρονα μπορεί να προκαλέσει συγκρούσεις, αποτυχία επιδιόρθωσης ή σφάλματα</string>
@@ -567,9 +565,12 @@
     <string name="app_links_unverified_banner_description">Οι υποστηριζόμενοι σύνδεσμοι ιστού ανοίγουν αυτήν τη στιγμή στο πρόγραμμα περιήγησής σας αντί για αυτήν την εφαρμογή</string>
     <string name="app_links_enable_auto">Αυτόματη ενεργοποίηση</string>
     <string name="app_links_enable_auto_in_progress">Ενεργοποίηση συνδέσμων…</string>
+    <string name="app_links_disable_all_in_progress">Απενεργοποίηση συνδέσμων…</string>
     <string name="app_links_open_settings">Άνοιγμα ρυθμίσεων συνδέσμων</string>
     <string name="app_links_repair_success">Οι σύνδεσμοι εφαρμογής ενεργοποιήθηκαν με επιτυχία</string>
     <string name="app_links_repair_failed">Αποτυχία αυτόματης ενεργοποίησης των συνδέσμων εφαρμογής</string>
+    <string name="app_links_disable_success">Οι σύνδεσμοι εφαρμογής απενεργοποιήθηκαν</string>
+    <string name="app_links_disable_failed">Απέτυχε η απενεργοποίηση των συνδέσμων εφαρμογής</string>
     <string name="app_links_change_failed">Αποτυχία αλλαγής συνδέσμων εφαρμογής</string>
     <string name="app_links_all_verified">Όλοι οι υποστηριζόμενοι σύνδεσμοι έχουν ρυθμιστεί να ανοίγουν σε αυτήν την εφαρμογή</string>
     <string name="app_links_fix">Διόρθωση συνδέσμων</string>
@@ -1415,6 +1416,8 @@ morphe_header_custom_dark.png
     <string name="include">Συμπερίληψη</string>
     <string name="disable">Απενεργοποίηση</string>
     <string name="enable">Ενεργοποίηση</string>
+    <string name="enable_all">Ενεργοποίηση όλων</string>
+    <string name="disable_all">Απενεργοποίηση όλων</string>
     <string name="trust">Εμπιστοσύνη</string>
     <string name="loading">Φόρτωση…</string>
     <string name="creating">Δημιουργία…</string>
